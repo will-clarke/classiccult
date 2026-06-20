@@ -1,6 +1,6 @@
-# Repertory London
+# ClassicCult
 
-A zero-backend website listing **classic & repertory films screening in London cinemas**.
+A zero-backend website listing **classic & cult films screening in London cinemas**.
 A scheduled scraper runs on GitHub Actions, writes a static `screenings.json`, and a
 plain HTML/JS site reads it. Nothing to host, nothing to pay for.
 
