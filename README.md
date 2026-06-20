@@ -26,14 +26,28 @@ GitHub Actions (daily cron)              ← the only "compute"
 | Barbican | HTML scrape (Drupal, `?day=` walk) | No release year in source → filled by TMDB |
 | ICA | HTML scrape (Spektrix-backed page) | Year/director parsed from credits line |
 | The Castle Cinema | schema.org `ScreeningEvent` JSON-LD | No release year in source → filled by TMDB |
+| BFI Southbank | [Clusterflick](https://github.com/clusterflick) open data (MIT) | Behind Cloudflare; can't scrape on CI - see below |
 
 Adding a venue = one file in `scraper/venues/` exposing `VENUE_ID`, `VENUE_NAME`,
 `VENUE_URL`, and `scrape() -> list[Film]`, then add it to `scraper/venues/__init__.py`.
 (`scraper/venues/savoy.py` is a shared helper used by Phoenix + Rio, not a venue itself.)
 
+### BFI Southbank — via Clusterflick open data
+BFI's listings live in a Tessitura "Online" system (`whatson.bfi.org.uk`) behind a
+Cloudflare challenge. The data itself is easy once you're past Cloudflare - each film
+page embeds its showtimes as a Tessitura `searchResults` array (a direct scraper using
+this is in `scraper/venues/bfi_direct.py`). **But Cloudflare blocks datacenter IPs, so
+it can't be scraped from GitHub Actions** (we tested headless/headed/stealth/real-Chrome
+- all blocked; a residential IP is required).
+
+[Clusterflick](https://github.com/clusterflick) already solves this: it aggregates 300+
+London venues - running the Cloudflare-gated ones from a residential Raspberry Pi cluster
+- and publishes a daily MIT-licensed `combined-data.json` release. `bfi.py` downloads that
+(a plain GET, no Cloudflare in our path) and maps BFI Southbank, so BFI works fully on CI.
+`bfi_direct.py` remains as an unregistered fallback for residential/homelab runs.
+
 ### Blocked — need a headless browser (not yet active)
-- **Close-Up** — Cloudflare JS challenge blocks plain `requests`. A complete, verified parser lives in `scraper/venues/closeup.py` (unregistered); only the fetch layer needs a headless browser / cloudscraper to activate.
-- **BFI Southbank** — live showtimes are behind a Cloudflare JS challenge; the open CMS JSON:API exists but its performance data is stale (nothing since 2022). No module written.
+- **Close-Up** — Cloudflare JS challenge blocks plain `requests`. A complete, verified parser lives in `scraper/venues/closeup.py` (unregistered); only the fetch layer needs a headless browser / cloudscraper to activate. (Clusterflick also carries Close-Up if you want it via the same open-data route.)
 
 ## Run locally
 
