@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Repertory London — classic films in London cinemas</title>
+  <meta name="description" content="Classic and repertory films screening in London cinemas this week. Updated daily.">
+  <link rel="preconnect" href="https://cdn.taposapp.com">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>🎞️</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1>Repertory <span>London</span></h1>
+      <p class="tagline">Classic &amp; repertory films screening in London cinemas. Updated daily.</p>
+    </div>
+  </header>
+
+  <div class="controls wrap">
+    <input id="search" type="search" placeholder="Search title or director…" autocomplete="off">
+    <label class="toggle">
+      <input id="classicsOnly" type="checkbox" checked>
+      <span>Classics only</span>
+    </label>
+    <select id="when">
+      <option value="all">Any date</option>
+      <option value="today">Today</option>
+      <option value="week">Next 7 days</option>
+      <option value="weekend">This weekend</option>
+    </select>
+    <select id="sort">
+      <option value="date">By date</option>
+      <option value="title">By title</option>
+      <option value="year">By year (oldest)</option>
+    </select>
+    <fieldset id="venues" class="venues"></fieldset>
+  </div>
+
+  <main id="results" class="wrap"></main>
+
+  <footer class="wrap">
+    <p id="meta"></p>
+    <p>Showtimes scraped from each cinema’s public listings. Always confirm on the venue’s own site before travelling. Not affiliated with any cinema.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
