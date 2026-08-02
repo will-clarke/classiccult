@@ -1,476 +1,72 @@
 {
-  "generated_at": "2026-08-01T08:28:30.166549+00:00",
+  "generated_at": "2026-08-02T08:31:20.391053+00:00",
   "classic_before_year": 2006,
   "venues": [
     {
       "id": "pcc",
       "name": "Prince Charles Cinema",
       "url": "https://princecharlescinema.com/whats-on/",
-      "films": 372,
-      "screenings": 703
+      "films": 370,
+      "screenings": 695
     },
     {
       "id": "castle",
       "name": "The Castle Cinema",
       "url": "https://thecastlecinema.com/listings/",
       "films": 16,
-      "screenings": 62
+      "screenings": 55
     },
     {
       "id": "genesis",
       "name": "Genesis Cinema",
       "url": "https://www.genesiscinema.co.uk/whatson",
       "films": 26,
-      "screenings": 103
+      "screenings": 89
     },
     {
       "id": "barbican",
       "name": "Barbican",
       "url": "https://www.barbican.org.uk/whats-on/cinema",
       "films": 38,
-      "screenings": 72
+      "screenings": 67
     },
     {
       "id": "ica",
       "name": "ICA",
       "url": "https://www.ica.art/films",
       "films": 19,
-      "screenings": 78
+      "screenings": 88
     },
     {
       "id": "phoenix",
       "name": "Phoenix Cinema",
       "url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn",
-      "films": 55,
-      "screenings": 141
+      "films": 54,
+      "screenings": 135
     },
     {
       "id": "rio",
       "name": "Rio Cinema",
       "url": "https://riocinema.org.uk/Rio.dll/WhatsOn",
       "films": 26,
-      "screenings": 69
+      "screenings": 64
     },
     {
       "id": "garden",
       "name": "The Garden Cinema",
       "url": "https://www.thegardencinema.co.uk/",
-      "films": 106,
-      "screenings": 406
+      "films": 105,
+      "screenings": 381
     },
     {
       "id": "bfi",
       "name": "BFI Southbank",
       "url": "https://whatson.bfi.org.uk/",
-      "films": 174,
-      "screenings": 560
+      "films": 172,
+      "screenings": 546
     }
   ],
   "films": [
-    {
-      "title": "Yi Yi",
-      "year": 2000,
-      "director": "Edward Yang",
-      "runtime": "173mins",
-      "country": "Taiwan",
-      "certificate": "15",
-      "poster": "https://posters-uk.s3.eu-west-2.amazonaws.com/PRILON/20548788.jpg",
-      "film_url": "https://princecharlescinema.com/film/20548788/yi-yi",
-      "synopsis": "The extraordinary, internationally embraced Yi Yi (A One and a Two . . .), directed by the late Taiwanese master Edward Yang, follows a middle-class family in Taipei over the course of one year, beginning with a wedding and ending with a funeral. Whether chronicling middle-age father NJ’s tentative flirtations with an old flame or precocious young son Yang-Yang’s attempts at capturing reality with his beloved camera, the filmmaker deftly imbues every gorgeous frame with a compassionate clarity. Warm, sprawling, and dazzling, this intimate epic is one of the undisputed masterworks of the new ce",
-      "screenings": [
-        {
-          "venue": "pcc",
-          "date": "2026-08-01",
-          "time": "11:45",
-          "display_time": "11:45 am",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31626816",
-          "formats": [
-            "4K"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-08-29",
-          "time": "19:10",
-          "display_time": "7:10 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627147",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-10-02",
-          "time": "14:35",
-          "display_time": "2:35 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627525",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "pcc",
-      "classic": true
-    },
-    {
-      "title": "The Dirties",
-      "year": 2013,
-      "director": "Matt Johnson",
-      "runtime": "83mins",
-      "country": "Canada",
-      "certificate": "15",
-      "poster": "https://cdn.taposapp.com/poster/600x900/2zS59r9XkIqs5JZt_E1lkkWz8Q2woFLrr31bS82KHuM.jpg",
-      "film_url": "https://princecharlescinema.com/film/31617427/the-dirties",
-      "synopsis": "The line between reality and fiction starts to blur when two best friends start making a movie about getting revenge on bullies.",
-      "screenings": [
-        {
-          "venue": "pcc",
-          "date": "2026-08-01",
-          "time": "12:30",
-          "display_time": "12:30 pm",
-          "booking_url": null,
-          "formats": [],
-          "sold_out": true
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-09-01",
-          "time": "18:00",
-          "display_time": "6:00 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627176",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-09-24",
-          "time": "12:20",
-          "display_time": "12:20 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627407",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "pcc",
-      "classic": false
-    },
-    {
-      "title": "Operation Avalanche",
-      "year": 2016,
-      "director": "Matt Johnson",
-      "runtime": "94mins",
-      "country": "Canada, USA",
-      "certificate": "15",
-      "poster": "https://cdn.taposapp.com/poster/600x900/BSG7EMpEw6tX0SZSen8sl5eW0iPTJv_71wKovs4JnjE.jpg",
-      "film_url": "https://princecharlescinema.com/film/31617411/operation-avalanche",
-      "synopsis": "In 1967, four undercover CIA agents were sent to NASA posing as a documentary film crew. What they discovered led to one of the biggest conspiracies in American history.",
-      "screenings": [
-        {
-          "venue": "pcc",
-          "date": "2026-08-01",
-          "time": "15:10",
-          "display_time": "3:10 pm",
-          "booking_url": null,
-          "formats": [],
-          "sold_out": true
-        }
-      ],
-      "venue": "pcc",
-      "classic": false
-    },
-    {
-      "title": "The Fall - 20th Anniversary",
-      "year": 2006,
-      "director": "Tarsem Singh",
-      "runtime": "117mins",
-      "country": "India, USA",
-      "certificate": "15",
-      "poster": "https://cdn.taposapp.com/poster/600x900/Mx3Ofe46_R2DGl9Q5_zkwKqPfWS2Zey00VzDXPGBgtg.jpg",
-      "film_url": "https://princecharlescinema.com/film/14686513/the-fall-20th-anniversary",
-      "synopsis": "A bedridden patient in a hospital on the outskirts of 1920s Los Angeles befriends a fellow patient, and shares a fantastic tale of heroes, myths, and villains on a desert island with the little girl.",
-      "screenings": [
-        {
-          "venue": "pcc",
-          "date": "2026-08-01",
-          "time": "15:30",
-          "display_time": "3:30 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31626815",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-09-19",
-          "time": "18:05",
-          "display_time": "6:05 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627352",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "pcc",
-      "classic": true
-    },
-    {
-      "title": "BlackBerry",
-      "year": 2023,
-      "director": "Matt Johnson",
-      "runtime": "120mins",
-      "country": "Canada",
-      "certificate": "15",
-      "poster": "https://cdn.taposapp.com/poster/600x900/J11DYffWjAnkeryMfw-7X4t_jIGUTfSLuBmjrO_JnAc.jpg",
-      "film_url": "https://princecharlescinema.com/film/31617410/blackberry",
-      "synopsis": "Two mismatched entrepreneurs – egghead innovator Mike Lazaridis and cut-throat businessman Jim Balsillie – joined forces in an endeavour that was to become a worldwide hit in little more than a decade. The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
-      "screenings": [
-        {
-          "venue": "pcc",
-          "date": "2026-08-01",
-          "time": "18:00",
-          "display_time": "6:00 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31626872",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "pcc",
-      "classic": false
-    },
-    {
-      "title": "Angel's Egg",
-      "year": 1985,
-      "director": "Mamoru Oshii",
-      "runtime": "71mins",
-      "country": "Japan",
-      "certificate": "12A",
-      "poster": "https://cdn.taposapp.com/poster/600x900/afBZeJ-2BYldxaaJ2LJg7Njyh2XHMiPu36duKRMuxeE.jpg",
-      "film_url": "https://princecharlescinema.com/film/31617401/angels-egg",
-      "synopsis": "In an underwater city, a young girl takes care of a large egg she holds carefully in her arms. A boy with a gun arrives in search of a bird he saw in his dream. At first, it seems as if feelings of sympathy are developing between the two. Forty years after the film’s original release, Anime Limited is proud to present an all-new 4K restoration of the film, supervised by director Mamoru Oshii, in cinemas nationwide for the very first time. The film is a creative collaboration between acclaimed director Mamoru Oshii (Ghost in the Shell), who wrote and directed the feature, and revered artist Yos",
-      "screenings": [
-        {
-          "venue": "pcc",
-          "date": "2026-08-01",
-          "time": "18:25",
-          "display_time": "6:25 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31626793",
-          "formats": [
-            "4K",
-            "SUB"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-08-09",
-          "time": "12:05",
-          "display_time": "12:05 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627707",
-          "formats": [
-            "SUB"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-08-25",
-          "time": "12:00",
-          "display_time": "12:00 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627102",
-          "formats": [
-            "4K",
-            "SUB"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-08-26",
-          "time": "17:45",
-          "display_time": "5:45 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627787",
-          "formats": [
-            "4K",
-            "SUB"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-09-03",
-          "time": "15:20",
-          "display_time": "3:20 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627162",
-          "formats": [
-            "4K",
-            "SUB"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-09-09",
-          "time": "17:45",
-          "display_time": "5:45 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627731",
-          "formats": [
-            "4K",
-            "SUB"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-09-22",
-          "time": "18:15",
-          "display_time": "6:15 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627380",
-          "formats": [
-            "4K",
-            "SUB"
-          ],
-          "sold_out": false
-        }
-      ],
-      "venue": "pcc",
-      "classic": true
-    },
-    {
-      "title": "Mulholland Dr.",
-      "year": 2001,
-      "director": "David Lynch",
-      "runtime": "147mins",
-      "country": "France, USA",
-      "certificate": "15",
-      "poster": "https://posters-uk.s3.eu-west-2.amazonaws.com/PRILON/2666403.jpg",
-      "film_url": "https://princecharlescinema.com/film/2666403/mulholland-dr",
-      "synopsis": "A dark-haired woman (Laura Elena Harring) is left amnesiac after a car crash. She wanders the streets of Los Angeles in a daze before taking refuge in an apartment. There she is discovered by Betty (Naomi Watts), a wholesome Midwestern blonde who has come to the City of Angels seeking fame as an actress. Together, the two attempt to solve the mystery of Rita's true identity. The story is set in a dream-like Los Angeles, spoilt neither by traffic jams nor smog.",
-      "screenings": [
-        {
-          "venue": "pcc",
-          "date": "2026-08-01",
-          "time": "20:30",
-          "display_time": "8:30 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31626813",
-          "formats": [
-            "35mm"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-08-21",
-          "time": "14:45",
-          "display_time": "2:45 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627062",
-          "formats": [
-            "35mm"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-09-13",
-          "time": "20:10",
-          "display_time": "8:10 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627303",
-          "formats": [
-            "35mm"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-10-02",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627474",
-          "formats": [
-            "35mm"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-10-19",
-          "time": "20:30",
-          "display_time": "8:30 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627509",
-          "formats": [
-            "35mm"
-          ],
-          "sold_out": false
-        }
-      ],
-      "venue": "pcc",
-      "classic": true
-    },
-    {
-      "title": "Nirvanna the Band the Show the Movie",
-      "year": 2025,
-      "director": "Matt Johnson",
-      "runtime": "100mins",
-      "country": "Canada",
-      "certificate": "15",
-      "poster": "https://cdn.taposapp.com/poster/600x900/lQ1kiMl_BImOHrYtGLLQIWGar6kcvf55mvSgnNJPTa0.jpg",
-      "film_url": "https://princecharlescinema.com/film/31617400/nirvanna-the-band-the-show-the-movie",
-      "synopsis": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
-      "screenings": [
-        {
-          "venue": "pcc",
-          "date": "2026-08-01",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": null,
-          "formats": [],
-          "sold_out": true
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-08-05",
-          "time": "15:40",
-          "display_time": "3:40 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627225",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-08-09",
-          "time": "14:45",
-          "display_time": "2:45 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31626930",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-08-15",
-          "time": "20:25",
-          "display_time": "8:25 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627002",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-08-27",
-          "time": "20:40",
-          "display_time": "8:40 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627785",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-09-24",
-          "time": "14:35",
-          "display_time": "2:35 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627405",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "pcc",
-      "classic": false
-    },
     {
       "title": "Hunt For The Wilderpeople - 10th Anniversary",
       "year": 2016,
@@ -702,11 +298,11 @@
           "date": "2026-08-02",
           "time": "18:00",
           "display_time": "6:00 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31626874",
+          "booking_url": null,
           "formats": [
             "35mm"
           ],
-          "sold_out": false
+          "sold_out": true
         },
         {
           "venue": "pcc",
@@ -1572,6 +1168,66 @@
       "classic": true
     },
     {
+      "title": "Nirvanna the Band the Show the Movie",
+      "year": 2025,
+      "director": "Matt Johnson",
+      "runtime": "100mins",
+      "country": "Canada",
+      "certificate": "15",
+      "poster": "https://cdn.taposapp.com/poster/600x900/lQ1kiMl_BImOHrYtGLLQIWGar6kcvf55mvSgnNJPTa0.jpg",
+      "film_url": "https://princecharlescinema.com/film/31617400/nirvanna-the-band-the-show-the-movie",
+      "synopsis": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
+      "screenings": [
+        {
+          "venue": "pcc",
+          "date": "2026-08-05",
+          "time": "15:40",
+          "display_time": "3:40 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627225",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-08-09",
+          "time": "14:45",
+          "display_time": "2:45 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31626930",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-08-15",
+          "time": "20:25",
+          "display_time": "8:25 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627002",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-08-27",
+          "time": "20:40",
+          "display_time": "8:40 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627785",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-09-24",
+          "time": "14:35",
+          "display_time": "2:35 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627405",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "pcc",
+      "classic": false
+    },
+    {
       "title": "The Conversation",
       "year": 1974,
       "director": "Francis Ford Coppola",
@@ -2370,6 +2026,92 @@
       "classic": true
     },
     {
+      "title": "Angel's Egg",
+      "year": 1985,
+      "director": "Mamoru Oshii",
+      "runtime": "71mins",
+      "country": "Japan",
+      "certificate": "12A",
+      "poster": "https://cdn.taposapp.com/poster/600x900/afBZeJ-2BYldxaaJ2LJg7Njyh2XHMiPu36duKRMuxeE.jpg",
+      "film_url": "https://princecharlescinema.com/film/31617401/angels-egg",
+      "synopsis": "In an underwater city, a young girl takes care of a large egg she holds carefully in her arms. A boy with a gun arrives in search of a bird he saw in his dream. At first, it seems as if feelings of sympathy are developing between the two. Forty years after the film’s original release, Anime Limited is proud to present an all-new 4K restoration of the film, supervised by director Mamoru Oshii, in cinemas nationwide for the very first time. The film is a creative collaboration between acclaimed director Mamoru Oshii (Ghost in the Shell), who wrote and directed the feature, and revered artist Yos",
+      "screenings": [
+        {
+          "venue": "pcc",
+          "date": "2026-08-09",
+          "time": "12:05",
+          "display_time": "12:05 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627707",
+          "formats": [
+            "SUB"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-08-25",
+          "time": "12:00",
+          "display_time": "12:00 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627102",
+          "formats": [
+            "4K",
+            "SUB"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-08-26",
+          "time": "17:45",
+          "display_time": "5:45 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627787",
+          "formats": [
+            "4K",
+            "SUB"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-09-03",
+          "time": "15:20",
+          "display_time": "3:20 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627162",
+          "formats": [
+            "4K",
+            "SUB"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-09-09",
+          "time": "17:45",
+          "display_time": "5:45 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627731",
+          "formats": [
+            "4K",
+            "SUB"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-09-22",
+          "time": "18:15",
+          "display_time": "6:15 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627380",
+          "formats": [
+            "4K",
+            "SUB"
+          ],
+          "sold_out": false
+        }
+      ],
+      "venue": "pcc",
+      "classic": true
+    },
+    {
       "title": "Ivan's Childhood",
       "year": 1962,
       "director": "Andrei Tarkovsky",
@@ -2641,11 +2383,11 @@
           "date": "2026-08-10",
           "time": "17:25",
           "display_time": "5:25 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31626942",
+          "booking_url": null,
           "formats": [
             "£1 MEM"
           ],
-          "sold_out": false
+          "sold_out": true
         }
       ],
       "venue": "pcc",
@@ -5194,6 +4936,65 @@
       "classic": true
     },
     {
+      "title": "Mulholland Dr.",
+      "year": 2001,
+      "director": "David Lynch",
+      "runtime": "147mins",
+      "country": "France, USA",
+      "certificate": "15",
+      "poster": "https://posters-uk.s3.eu-west-2.amazonaws.com/PRILON/2666403.jpg",
+      "film_url": "https://princecharlescinema.com/film/2666403/mulholland-dr",
+      "synopsis": "A dark-haired woman (Laura Elena Harring) is left amnesiac after a car crash. She wanders the streets of Los Angeles in a daze before taking refuge in an apartment. There she is discovered by Betty (Naomi Watts), a wholesome Midwestern blonde who has come to the City of Angels seeking fame as an actress. Together, the two attempt to solve the mystery of Rita's true identity. The story is set in a dream-like Los Angeles, spoilt neither by traffic jams nor smog.",
+      "screenings": [
+        {
+          "venue": "pcc",
+          "date": "2026-08-21",
+          "time": "14:45",
+          "display_time": "2:45 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627062",
+          "formats": [
+            "35mm"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-09-13",
+          "time": "20:10",
+          "display_time": "8:10 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627303",
+          "formats": [
+            "35mm"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-10-02",
+          "time": "20:45",
+          "display_time": "8:45 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627474",
+          "formats": [
+            "35mm"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-10-19",
+          "time": "20:30",
+          "display_time": "8:30 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627509",
+          "formats": [
+            "35mm"
+          ],
+          "sold_out": false
+        }
+      ],
+      "venue": "pcc",
+      "classic": true
+    },
+    {
       "title": "The Getaway (1972)",
       "year": 1972,
       "director": "Sam Peckinpah",
@@ -6492,6 +6293,39 @@
       "classic": false
     },
     {
+      "title": "Yi Yi",
+      "year": 2000,
+      "director": "Edward Yang",
+      "runtime": "173mins",
+      "country": "Taiwan",
+      "certificate": "15",
+      "poster": "https://posters-uk.s3.eu-west-2.amazonaws.com/PRILON/20548788.jpg",
+      "film_url": "https://princecharlescinema.com/film/20548788/yi-yi",
+      "synopsis": "The extraordinary, internationally embraced Yi Yi (A One and a Two . . .), directed by the late Taiwanese master Edward Yang, follows a middle-class family in Taipei over the course of one year, beginning with a wedding and ending with a funeral. Whether chronicling middle-age father NJ’s tentative flirtations with an old flame or precocious young son Yang-Yang’s attempts at capturing reality with his beloved camera, the filmmaker deftly imbues every gorgeous frame with a compassionate clarity. Warm, sprawling, and dazzling, this intimate epic is one of the undisputed masterworks of the new ce",
+      "screenings": [
+        {
+          "venue": "pcc",
+          "date": "2026-08-29",
+          "time": "19:10",
+          "display_time": "7:10 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627147",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-10-02",
+          "time": "14:35",
+          "display_time": "2:35 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627525",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "pcc",
+      "classic": true
+    },
+    {
       "title": "Stop Making Sense",
       "year": 1984,
       "director": "Jonathan Demme",
@@ -6858,6 +6692,39 @@
       ],
       "venue": "pcc",
       "classic": true
+    },
+    {
+      "title": "The Dirties",
+      "year": 2013,
+      "director": "Matt Johnson",
+      "runtime": "83mins",
+      "country": "Canada",
+      "certificate": "15",
+      "poster": "https://cdn.taposapp.com/poster/600x900/2zS59r9XkIqs5JZt_E1lkkWz8Q2woFLrr31bS82KHuM.jpg",
+      "film_url": "https://princecharlescinema.com/film/31617427/the-dirties",
+      "synopsis": "The line between reality and fiction starts to blur when two best friends start making a movie about getting revenge on bullies.",
+      "screenings": [
+        {
+          "venue": "pcc",
+          "date": "2026-09-01",
+          "time": "18:00",
+          "display_time": "6:00 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627176",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-09-24",
+          "time": "12:20",
+          "display_time": "12:20 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627407",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "pcc",
+      "classic": false
     },
     {
       "title": "The Godfather Coda : The Death of Michael Corleone",
@@ -8925,6 +8792,30 @@
           "formats": [
             "4K"
           ],
+          "sold_out": false
+        }
+      ],
+      "venue": "pcc",
+      "classic": true
+    },
+    {
+      "title": "The Fall - 20th Anniversary",
+      "year": 2006,
+      "director": "Tarsem Singh",
+      "runtime": "117mins",
+      "country": "India, USA",
+      "certificate": "15",
+      "poster": "https://cdn.taposapp.com/poster/600x900/Mx3Ofe46_R2DGl9Q5_zkwKqPfWS2Zey00VzDXPGBgtg.jpg",
+      "film_url": "https://princecharlescinema.com/film/14686513/the-fall-20th-anniversary",
+      "synopsis": "A bedridden patient in a hospital on the outskirts of 1920s Los Angeles befriends a fellow patient, and shares a fantastic tale of heroes, myths, and villains on a desert island with the little girl.",
+      "screenings": [
+        {
+          "venue": "pcc",
+          "date": "2026-09-19",
+          "time": "18:05",
+          "display_time": "6:05 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627352",
+          "formats": [],
           "sold_out": false
         }
       ],
@@ -12932,24 +12823,6 @@
       "screenings": [
         {
           "venue": "castle",
-          "date": "2026-08-01",
-          "time": "13:30",
-          "display_time": "1:30 pm",
-          "booking_url": "https://thecastlecinema.com/bookings/17360/",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "castle",
-          "date": "2026-08-01",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": "https://thecastlecinema.com/bookings/17361/",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "castle",
           "date": "2026-08-02",
           "time": "13:15",
           "display_time": "1:15 pm",
@@ -13247,24 +13120,6 @@
       "screenings": [
         {
           "venue": "castle",
-          "date": "2026-08-01",
-          "time": "15:45",
-          "display_time": "3:45 pm",
-          "booking_url": "https://thecastlecinema.com/bookings/17362/",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "castle",
-          "date": "2026-08-01",
-          "time": "18:15",
-          "display_time": "6:15 pm",
-          "booking_url": "https://thecastlecinema.com/bookings/17363/",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "castle",
           "date": "2026-08-02",
           "time": "10:45",
           "display_time": "10:45 am",
@@ -13395,33 +13250,6 @@
       "film_url": "https://thecastlecinema.com/programme/105912/the-odyssey/",
       "synopsis": null,
       "screenings": [
-        {
-          "venue": "castle",
-          "date": "2026-08-01",
-          "time": "13:00",
-          "display_time": "1:00 pm",
-          "booking_url": "https://thecastlecinema.com/bookings/17357/",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "castle",
-          "date": "2026-08-01",
-          "time": "16:30",
-          "display_time": "4:30 pm",
-          "booking_url": "https://thecastlecinema.com/bookings/17358/",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "castle",
-          "date": "2026-08-01",
-          "time": "20:00",
-          "display_time": "8:00 pm",
-          "booking_url": "https://thecastlecinema.com/bookings/17359/",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "castle",
           "date": "2026-08-02",
@@ -13625,82 +13453,6 @@
       "screenings": [
         {
           "venue": "genesis",
-          "date": "2026-08-01",
-          "time": "13:10",
-          "display_time": "1:10 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12158",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-08-01",
-          "time": "14:45",
-          "display_time": "2:45 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12311",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-08-01",
-          "time": "16:20",
-          "display_time": "4:20 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12120",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-08-01",
-          "time": "17:15",
-          "display_time": "5:15 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12407",
-          "formats": [
-            "Studio Screening"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-08-01",
-          "time": "17:55",
-          "display_time": "5:55 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12122",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-08-01",
-          "time": "19:30",
-          "display_time": "7:30 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12119",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-08-01",
-          "time": "20:25",
-          "display_time": "8:25 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12412",
-          "formats": [
-            "Studio Screening"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-08-01",
-          "time": "21:00",
-          "display_time": "9:00 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12121",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
           "date": "2026-08-02",
           "time": "12:45",
           "display_time": "12:45 pm",
@@ -13892,6 +13644,17 @@
         {
           "venue": "genesis",
           "date": "2026-08-04",
+          "time": "20:35",
+          "display_time": "8:35 pm",
+          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12420",
+          "formats": [
+            "Studio Screening"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "genesis",
+          "date": "2026-08-04",
           "time": "20:55",
           "display_time": "8:55 pm",
           "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12389",
@@ -14023,39 +13786,6 @@
       "screenings": [
         {
           "venue": "genesis",
-          "date": "2026-08-01",
-          "time": "13:30",
-          "display_time": "1:30 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12314",
-          "formats": [
-            "Studio Screening"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-08-01",
-          "time": "14:30",
-          "display_time": "2:30 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12320",
-          "formats": [
-            "Studio Screening"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-08-01",
-          "time": "18:10",
-          "display_time": "6:10 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12315",
-          "formats": [
-            "Studio Screening"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
           "date": "2026-08-02",
           "time": "13:20",
           "display_time": "1:20 pm",
@@ -14151,17 +13881,6 @@
         },
         {
           "venue": "genesis",
-          "date": "2026-08-04",
-          "time": "20:20",
-          "display_time": "8:20 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12390",
-          "formats": [
-            "Studio Screening"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
           "date": "2026-08-05",
           "time": "14:30",
           "display_time": "2:30 pm",
@@ -14232,24 +13951,6 @@
       "screenings": [
         {
           "venue": "genesis",
-          "date": "2026-08-01",
-          "time": "16:15",
-          "display_time": "4:15 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12408",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-08-01",
-          "time": "20:00",
-          "display_time": "8:00 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12316",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
           "date": "2026-08-02",
           "time": "15:30",
           "display_time": "3:30 pm",
@@ -14299,15 +14000,6 @@
       "film_url": "https://www.genesiscinema.co.uk/event/104999",
       "synopsis": "The toys are back in Disney and Pixar's \"Toy Story 5,\" and this time it's Toy meets Tech. Woody (voice of Tom Hanks), Buzz Lightyear (voice of Tim Allen), Jessie (voice of Joan Cusack) and the rest of the gang's jobs are challenged when they come face-to-face with Lilypad (voice of Greta Lee), a brand-new tablet device that arrives with her own disruptive ideas about what is best for their kid, Bonnie. Will playtime ever be the same? More Info",
       "screenings": [
-        {
-          "venue": "genesis",
-          "date": "2026-08-01",
-          "time": "13:45",
-          "display_time": "1:45 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12312",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "genesis",
           "date": "2026-08-02",
@@ -14464,8 +14156,8 @@
         {
           "venue": "genesis",
           "date": "2026-08-04",
-          "time": "17:45",
-          "display_time": "5:45 pm",
+          "time": "18:00",
+          "display_time": "6:00 pm",
           "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=12393",
           "formats": [
             "Studio Screening"
@@ -14997,55 +14689,124 @@
       "classic": false
     },
     {
-      "title": "Parent & Baby Screening: The Odyssey",
+      "title": "Members' Screening: Nostalghia",
       "year": null,
       "director": null,
-      "runtime": "52mins",
+      "runtime": "125mins",
       "country": null,
       "certificate": null,
-      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-06/CT-03414_0.jpg?h=31c1030b&itok=YzuNA4k-",
-      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/parent-baby-screening-the-odyssey",
-      "synopsis": "Christopher Nolan brings one of the world's most famous ancient texts to life in this mythic action epic starring Matt Damon, Anne Hathaway, Tom Holland and more.",
+      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-07/nostalgia-03.jpg?itok=q6bp3XNE",
+      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/members-screening-nostalghia",
+      "synopsis": "Andrei Tarkovsky’s unforgettably haunting film, his first to be made outside Russia, follows Gorchakov, a Russian poet researching in Italy.",
       "screenings": [
         {
           "venue": "barbican",
-          "date": "2026-08-01",
-          "time": "10:30",
-          "display_time": "10:30 am",
-          "booking_url": null,
+          "date": "2026-08-02",
+          "time": "11:00",
+          "display_time": "11:00 am",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3650801",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "barbican",
+      "classic": false
+    },
+    {
+      "title": "Personal Problems",
+      "year": null,
+      "director": null,
+      "runtime": "165mins",
+      "country": null,
+      "certificate": null,
+      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-07/personal1-superJumbo.jpg?itok=XH-o7cJv",
+      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/personal-problems",
+      "synopsis": "This experimental soap opera written by poet Ishmael Reed radically captures African American life in 1980s New York.",
+      "screenings": [
+        {
+          "venue": "barbican",
+          "date": "2026-08-02",
+          "time": "13:50",
+          "display_time": "1:50 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3660401",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "barbican",
+      "classic": false
+    },
+    {
+      "title": "The Invite",
+      "year": null,
+      "director": null,
+      "runtime": "108mins",
+      "country": null,
+      "certificate": null,
+      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-06/INVITE_Still_3.jpg?itok=wkvAZIJw",
+      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/the-invite",
+      "synopsis": "Seth Rogen and Olivia Wilde are the subjects in this tense and hilarious study of a failing marriage.",
+      "screenings": [
+        {
+          "venue": "barbican",
+          "date": "2026-08-02",
+          "time": "13:50",
+          "display_time": "1:50 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3655001",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-08-02",
+          "time": "19:40",
+          "display_time": "7:40 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3655202",
           "formats": [],
           "sold_out": false
         },
         {
           "venue": "barbican",
           "date": "2026-08-03",
-          "time": "10:30",
-          "display_time": "10:30 am",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3651201",
+          "time": "14:50",
+          "display_time": "2:50 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3655801",
           "formats": [],
           "sold_out": false
-        }
-      ],
-      "venue": "barbican",
-      "classic": false
-    },
-    {
-      "title": "The Sacrifice [4K Restoration]",
-      "year": null,
-      "director": null,
-      "runtime": "149mins",
-      "country": null,
-      "certificate": null,
-      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-07/The%20Sacrifice_207%20%281%29.jpg?itok=AKhdFoDS",
-      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/the-sacrifice-4k-restoration",
-      "synopsis": "In his final film, master of cinema Andrei Tarkovsky explores a world on the brink of nuclear war.",
-      "screenings": [
+        },
         {
           "venue": "barbican",
-          "date": "2026-08-01",
-          "time": "13:00",
-          "display_time": "1:00 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3656601",
+          "date": "2026-08-03",
+          "time": "20:45",
+          "display_time": "8:45 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3655002",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-08-04",
+          "time": "20:45",
+          "display_time": "8:45 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3662601",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-08-05",
+          "time": "20:45",
+          "display_time": "8:45 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3656001",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-08-06",
+          "time": "20:45",
+          "display_time": "8:45 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3655003",
           "formats": [],
           "sold_out": false
         }
@@ -15054,22 +14815,82 @@
       "classic": false
     },
     {
-      "title": "Projecting Resistance: Cinema and Pan-African Struggle",
+      "title": "About Some Meaningless Events",
       "year": null,
       "director": null,
       "runtime": null,
       "country": null,
       "certificate": null,
-      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-04/Event%206.jpg?itok=sfBgQIvA",
-      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/projecting-resistance-cinema-and-pan-african-struggle",
-      "synopsis": "These three films offer distinct cinematic responses to protest and political upheaval across Cape Verde, Sudan, and the UK in the late 1970s and early 1980s.",
+      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-04/Event%208.jpg?itok=piaM6RyX",
+      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/about-some-meaningless-events",
+      "synopsis": "These three films explore political history and memory through poetry on Haitian revolt, blues-inflected mourning, and a cinematic style that reflects on Moroccan national cinema.",
       "screenings": [
         {
           "venue": "barbican",
-          "date": "2026-08-01",
+          "date": "2026-08-02",
           "time": "14:00",
           "display_time": "2:00 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3490401",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3490801",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "barbican",
+      "classic": false
+    },
+    {
+      "title": "The Odyssey [35mm]",
+      "year": null,
+      "director": null,
+      "runtime": "52mins",
+      "country": null,
+      "certificate": null,
+      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-06/CT-03414.jpg?h=31c1030b&itok=9gZ_szVo",
+      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/the-odyssey-35mm",
+      "synopsis": "Christopher Nolan brings one of the world's most famous ancient texts to life in this mythic action epic starring Matt Damon, Anne Hathaway, Tom Holland and more, screened on glorious 35mm film.",
+      "screenings": [
+        {
+          "venue": "barbican",
+          "date": "2026-08-02",
+          "time": "16:10",
+          "display_time": "4:10 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3657801",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-08-02",
+          "time": "19:45",
+          "display_time": "7:45 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3658001",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-08-03",
+          "time": "20:05",
+          "display_time": "8:05 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3658201",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-08-05",
+          "time": "19:30",
+          "display_time": "7:30 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3658401",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-08-06",
+          "time": "20:05",
+          "display_time": "8:05 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3657402",
           "formats": [],
           "sold_out": false
         }
@@ -15088,15 +14909,6 @@
       "film_url": "https://www.barbican.org.uk/whats-on/2026/event/the-odyssey",
       "synopsis": "Christopher Nolan brings one of the world's most famous ancient texts to life in this mythic action epic starring Matt Damon, Anne Hathaway, Tom Holland and more.",
       "screenings": [
-        {
-          "venue": "barbican",
-          "date": "2026-08-01",
-          "time": "15:00",
-          "display_time": "3:00 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3658202",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "barbican",
           "date": "2026-08-02",
@@ -15174,100 +14986,40 @@
       "classic": false
     },
     {
-      "title": "The Odyssey [35mm]",
+      "title": "The Sacrifice",
       "year": null,
       "director": null,
-      "runtime": "52mins",
+      "runtime": "149mins",
       "country": null,
       "certificate": null,
-      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-06/CT-03414.jpg?h=31c1030b&itok=9gZ_szVo",
-      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/the-odyssey-35mm",
-      "synopsis": "Christopher Nolan brings one of the world's most famous ancient texts to life in this mythic action epic starring Matt Damon, Anne Hathaway, Tom Holland and more, screened on glorious 35mm film.",
+      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-07/The%20Sacrifice_207%20%281%29.jpg?itok=AKhdFoDS",
+      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/the-sacrifice",
+      "synopsis": "In his final film, master of cinema Andrei Tarkovsky explores a world on the brink of nuclear war.",
       "screenings": [
         {
           "venue": "barbican",
-          "date": "2026-08-01",
-          "time": "16:25",
-          "display_time": "4:25 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3657601",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-08-01",
-          "time": "20:05",
-          "display_time": "8:05 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3657202",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
           "date": "2026-08-02",
-          "time": "16:10",
-          "display_time": "4:10 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3657801",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-08-02",
-          "time": "19:45",
-          "display_time": "7:45 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3658001",
+          "time": "17:05",
+          "display_time": "5:05 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3656801",
           "formats": [],
           "sold_out": false
         },
         {
           "venue": "barbican",
           "date": "2026-08-03",
-          "time": "20:05",
-          "display_time": "8:05 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3658201",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-08-05",
-          "time": "19:30",
-          "display_time": "7:30 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3658401",
+          "time": "18:45",
+          "display_time": "6:45 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3657001",
           "formats": [],
           "sold_out": false
         },
         {
           "venue": "barbican",
           "date": "2026-08-06",
-          "time": "20:05",
-          "display_time": "8:05 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3657402",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "barbican",
-      "classic": false
-    },
-    {
-      "title": "The Terror and the Time + Caribbean Honeymoon No. 2",
-      "year": null,
-      "director": null,
-      "runtime": null,
-      "country": null,
-      "certificate": null,
-      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-04/Event%207.jpeg?itok=yzBNXPJF",
-      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/the-terror-and-the-time-caribbean-honeymoon-no-2",
-      "synopsis": "These two Guyanese films explore the country’s complex political history in very different ways, tracing the legacies of colonialism and the fraught path to independence.",
-      "screenings": [
-        {
-          "venue": "barbican",
-          "date": "2026-08-01",
-          "time": "17:00",
-          "display_time": "5:00 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3490601",
+          "time": "17:45",
+          "display_time": "5:45 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3657201",
           "formats": [],
           "sold_out": false
         }
@@ -15286,15 +15038,6 @@
       "film_url": "https://www.barbican.org.uk/whats-on/2026/event/ish",
       "synopsis": "A racially motivated police stop-and-search drives a wedge between two best friends in Imran Perretta 's intimate, poetic drama.",
       "screenings": [
-        {
-          "venue": "barbican",
-          "date": "2026-08-01",
-          "time": "18:25",
-          "display_time": "6:25 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3659801",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "barbican",
           "date": "2026-08-02",
@@ -15354,208 +15097,22 @@
       "classic": false
     },
     {
-      "title": "Personal Problems",
+      "title": "Parent & Baby Screening: The Odyssey",
       "year": null,
       "director": null,
-      "runtime": "165mins",
+      "runtime": "52mins",
       "country": null,
       "certificate": null,
-      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-07/personal1-superJumbo.jpg?itok=XH-o7cJv",
-      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/personal-problems",
-      "synopsis": "This experimental soap opera written by poet Ishmael Reed radically captures African American life in 1980s New York.",
+      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-06/CT-03414_0.jpg?h=31c1030b&itok=YzuNA4k-",
+      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/parent-baby-screening-the-odyssey",
+      "synopsis": "Christopher Nolan brings one of the world's most famous ancient texts to life in this mythic action epic starring Matt Damon, Anne Hathaway, Tom Holland and more.",
       "screenings": [
-        {
-          "venue": "barbican",
-          "date": "2026-08-01",
-          "time": "19:45",
-          "display_time": "7:45 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3660801",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-08-02",
-          "time": "13:50",
-          "display_time": "1:50 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3660401",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "barbican",
-      "classic": false
-    },
-    {
-      "title": "The Invite",
-      "year": null,
-      "director": null,
-      "runtime": "108mins",
-      "country": null,
-      "certificate": null,
-      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-06/INVITE_Still_3.jpg?itok=wkvAZIJw",
-      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/the-invite",
-      "synopsis": "Seth Rogen and Olivia Wilde are the subjects in this tense and hilarious study of a failing marriage.",
-      "screenings": [
-        {
-          "venue": "barbican",
-          "date": "2026-08-01",
-          "time": "20:30",
-          "display_time": "8:30 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3655601",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-08-02",
-          "time": "13:50",
-          "display_time": "1:50 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3655001",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-08-02",
-          "time": "19:40",
-          "display_time": "7:40 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3655202",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "barbican",
           "date": "2026-08-03",
-          "time": "14:50",
-          "display_time": "2:50 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3655801",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-08-03",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3655002",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-08-04",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3662601",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-08-05",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3656001",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-08-06",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3655003",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "barbican",
-      "classic": false
-    },
-    {
-      "title": "Members' Screening: Nostalghia",
-      "year": null,
-      "director": null,
-      "runtime": "125mins",
-      "country": null,
-      "certificate": null,
-      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-07/nostalgia-03.jpg?itok=q6bp3XNE",
-      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/members-screening-nostalghia",
-      "synopsis": "Andrei Tarkovsky’s unforgettably haunting film, his first to be made outside Russia, follows Gorchakov, a Russian poet researching in Italy.",
-      "screenings": [
-        {
-          "venue": "barbican",
-          "date": "2026-08-02",
-          "time": "11:00",
-          "display_time": "11:00 am",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3650801",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "barbican",
-      "classic": false
-    },
-    {
-      "title": "About Some Meaningless Events",
-      "year": null,
-      "director": null,
-      "runtime": null,
-      "country": null,
-      "certificate": null,
-      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-04/Event%208.jpg?itok=piaM6RyX",
-      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/about-some-meaningless-events",
-      "synopsis": "These three films explore political history and memory through poetry on Haitian revolt, blues-inflected mourning, and a cinematic style that reflects on Moroccan national cinema.",
-      "screenings": [
-        {
-          "venue": "barbican",
-          "date": "2026-08-02",
-          "time": "14:00",
-          "display_time": "2:00 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3490801",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "barbican",
-      "classic": false
-    },
-    {
-      "title": "The Sacrifice",
-      "year": null,
-      "director": null,
-      "runtime": "149mins",
-      "country": null,
-      "certificate": null,
-      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-07/The%20Sacrifice_207%20%281%29.jpg?itok=AKhdFoDS",
-      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/the-sacrifice",
-      "synopsis": "In his final film, master of cinema Andrei Tarkovsky explores a world on the brink of nuclear war.",
-      "screenings": [
-        {
-          "venue": "barbican",
-          "date": "2026-08-02",
-          "time": "17:05",
-          "display_time": "5:05 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3656801",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-08-03",
-          "time": "18:45",
-          "display_time": "6:45 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3657001",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-08-06",
-          "time": "17:45",
-          "display_time": "5:45 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3657201",
+          "time": "10:30",
+          "display_time": "10:30 am",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3651201",
           "formats": [],
           "sold_out": false
         }
@@ -16161,6 +15718,24 @@
           "booking_url": "https://tickets.barbican.org.uk/choose-seats/3640401",
           "formats": [],
           "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-08-29",
+          "time": "15:40",
+          "display_time": "3:40 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3640601",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-08-29",
+          "time": "20:40",
+          "display_time": "8:40 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3640801",
+          "formats": [],
+          "sold_out": false
         }
       ],
       "venue": "barbican",
@@ -16215,6 +15790,78 @@
       "classic": false
     },
     {
+      "title": "Pan-African Cultural Encounters + Panel Discussion",
+      "year": null,
+      "director": null,
+      "runtime": null,
+      "country": null,
+      "certificate": null,
+      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-05/okay-keskidee-still-1-2.jpg?h=693523c4&itok=Ju1ZXP7S",
+      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/pan-african-cultural-encounters-panel-discussion",
+      "synopsis": "A selection of films tracing the movement of culture, images, and ideas across Pan-African worlds.",
+      "screenings": [
+        {
+          "venue": "barbican",
+          "date": "2026-08-29",
+          "time": "14:00",
+          "display_time": "2:00 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3491601",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "barbican",
+      "classic": false
+    },
+    {
+      "title": "All Kaiju Attack!: Godzilla, Mothra and King Ghidorah",
+      "year": null,
+      "director": null,
+      "runtime": "105mins",
+      "country": null,
+      "certificate": null,
+      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-07/GdzllaMrthaKngGhdrh_01-LEAD.jpg?itok=By_QSzWa",
+      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/all-kaiju-attack-godzilla-mothra-and-king-ghidorah",
+      "synopsis": "Some of Toho’s greatest kaiju battle in one of the very best Godzilla films, referencing Japan’s wartime history and embracing a darker tone to brilliant effect.",
+      "screenings": [
+        {
+          "venue": "barbican",
+          "date": "2026-08-29",
+          "time": "18:15",
+          "display_time": "6:15 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3618601",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "barbican",
+      "classic": false
+    },
+    {
+      "title": "Outdoor Cinema: Desperately Seeking Susan",
+      "year": null,
+      "director": null,
+      "runtime": "104mins",
+      "country": null,
+      "certificate": null,
+      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small/public/images/2026-05/DSS3.jpg?h=646f660c&itok=TQdTOcf0",
+      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/outdoor-cinema-desperately-seeking-susan",
+      "synopsis": "Madonna and Rosanna Arquette star in this 80s cult classic, in which an unhappy Suburban housewife is thrust into a life of adventure and romance.",
+      "screenings": [
+        {
+          "venue": "barbican",
+          "date": "2026-08-29",
+          "time": "20:30",
+          "display_time": "8:30 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3516401",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "barbican",
+      "classic": false
+    },
+    {
       "title": "UK PREMIERE The Day She Returns",
       "year": 2026,
       "director": "Hong Sangsoo",
@@ -16225,17 +15872,6 @@
       "film_url": "https://www.ica.art/films/the-day-she-returns",
       "synopsis": "The Day She Returns follows actress Bae Jeongsu (Song Sunmi), who, having stepped back from acting after marriage and a subsequent divorce, returns to the profession with a role in an independent film. As the film’s release approaches, she takes part in a series of press interviews. A subtle meditation on memory and performance, Hong Sangsoo's latest film unfolds through a series of increasingly intimate conversations, as he continues his exploration of the boundaries between lived experience and artistic creation",
       "screenings": [
-        {
-          "venue": "ica",
-          "date": "2026-08-01",
-          "time": "15:00",
-          "display_time": "03:00 pm",
-          "booking_url": "https://www.ica.art/book/740801",
-          "formats": [
-            "Cinema 2"
-          ],
-          "sold_out": false
-        },
         {
           "venue": "ica",
           "date": "2026-08-02",
@@ -16290,6 +15926,39 @@
             "Cinema 1"
           ],
           "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-08",
+          "time": "20:50",
+          "display_time": "08:50 pm",
+          "booking_url": "https://www.ica.art/book/740801",
+          "formats": [
+            "Cinema 2"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-11",
+          "time": "18:30",
+          "display_time": "06:30 pm",
+          "booking_url": "https://www.ica.art/book/740801",
+          "formats": [
+            "Cinema 2"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-12",
+          "time": "14:30",
+          "display_time": "02:30 pm",
+          "booking_url": "https://www.ica.art/book/740801",
+          "formats": [
+            "Cinema 1"
+          ],
+          "sold_out": false
         }
       ],
       "venue": "ica",
@@ -16306,17 +15975,6 @@
       "film_url": "https://www.ica.art/films/oshima-the-catch",
       "synopsis": "During the final days of World War II, a remote village community is shaken by the capture of an African-American pilot. As they figure out what to do with him, tensions flare between the village headman and other inhabitants, bringing long-repressed resentments to the surface. Made on the heels of his angry break with Shochiku over their unyielding suppression of Night and Fog in Japan, Ōshima delivers a categorical rejection of the humanistic interpretations of the war prevalent in postwar Japanese cinema",
       "screenings": [
-        {
-          "venue": "ica",
-          "date": "2026-08-01",
-          "time": "16:00",
-          "display_time": "04:00 pm",
-          "booking_url": "https://www.ica.art/book/746001",
-          "formats": [
-            "Cinema 1"
-          ],
-          "sold_out": false
-        },
         {
           "venue": "ica",
           "date": "2026-08-04",
@@ -16345,17 +16003,6 @@
       "screenings": [
         {
           "venue": "ica",
-          "date": "2026-08-01",
-          "time": "17:00",
-          "display_time": "05:00 pm",
-          "booking_url": "https://www.ica.art/book/753601",
-          "formats": [
-            "Cinema 2"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "ica",
           "date": "2026-08-02",
           "time": "17:30",
           "display_time": "05:30 pm",
@@ -16368,6 +16015,28 @@
         {
           "venue": "ica",
           "date": "2026-08-05",
+          "time": "15:00",
+          "display_time": "03:00 pm",
+          "booking_url": "https://www.ica.art/book/753601",
+          "formats": [
+            "Cinema 2"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-07",
+          "time": "13:00",
+          "display_time": "01:00 pm",
+          "booking_url": "https://www.ica.art/book/753601",
+          "formats": [
+            "Cinema 2"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-11",
           "time": "15:00",
           "display_time": "03:00 pm",
           "booking_url": "https://www.ica.art/book/753601",
@@ -16391,28 +16060,6 @@
       "film_url": "https://www.ica.art/films/ish",
       "synopsis": "Set and filmed in the South Asian and Middle Eastern community in Luton, Ish follows 12-year-old best friends, Ish (Farhan Hasnat) and Maram (Yahya Kitana) who are navigating childhood against a backdrop of political tension and personal loss. After a police stop and search, where Maram is searched and Ish manages to run away, they wrestle to hold onto their friendship. Written and directed by acclaimed artist Imran Perretta and co-written by Enda Walsh ( Hunger ), Ish was shot in black and white by cinematographer Jermaine Canute Edwards ( My Father’s Shadow ). The film is less contemporary u",
       "screenings": [
-        {
-          "venue": "ica",
-          "date": "2026-08-01",
-          "time": "13:00",
-          "display_time": "01:00 pm",
-          "booking_url": "https://www.ica.art/book/743201",
-          "formats": [
-            "Cinema 2"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "ica",
-          "date": "2026-08-01",
-          "time": "18:30",
-          "display_time": "06:30 pm",
-          "booking_url": "https://www.ica.art/book/743201",
-          "formats": [
-            "Cinema 1"
-          ],
-          "sold_out": false
-        },
         {
           "venue": "ica",
           "date": "2026-08-02",
@@ -16500,6 +16147,50 @@
             "Cinema 2"
           ],
           "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-08",
+          "time": "18:50",
+          "display_time": "06:50 pm",
+          "booking_url": "https://www.ica.art/book/743201",
+          "formats": [
+            "Cinema 2"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-09",
+          "time": "18:00",
+          "display_time": "06:00 pm",
+          "booking_url": "https://www.ica.art/book/743201",
+          "formats": [
+            "Cinema 2"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-11",
+          "time": "20:30",
+          "display_time": "08:30 pm",
+          "booking_url": "https://www.ica.art/book/743201",
+          "formats": [
+            "Cinema 1"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-12",
+          "time": "16:30",
+          "display_time": "04:30 pm",
+          "booking_url": "https://www.ica.art/book/743201",
+          "formats": [
+            "Cinema 1"
+          ],
+          "sold_out": false
         }
       ],
       "venue": "ica",
@@ -16516,17 +16207,6 @@
       "film_url": "https://www.ica.art/films/the-sacrifice-4k-restoration",
       "synopsis": "Andrei Tarkovsky’s visionary final film unfolds in the hours before a nuclear holocaust. Among many other awards, The Sacrifice won the Cannes Grand Prix in 1986, the same year that Tarkovsky died of cancer in Paris at the age of 54. Erland Josephson, in an award-winning role, plays retired actor Alexander who is celebrating his birthday with family and friends when a crackly TV announcement warns of an imminent nuclear catastrophe. Alexander makes a promise to God that he will sacrifice all he holds dear if the disaster can be averted. The next day dawns and, as if in a dream, everything is r",
       "screenings": [
-        {
-          "venue": "ica",
-          "date": "2026-08-01",
-          "time": "13:00",
-          "display_time": "01:00 pm",
-          "booking_url": "https://www.ica.art/book/753801",
-          "formats": [
-            "Cinema 1"
-          ],
-          "sold_out": false
-        },
         {
           "venue": "ica",
           "date": "2026-08-02",
@@ -16570,6 +16250,39 @@
             "Cinema 1"
           ],
           "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-07",
+          "time": "15:00",
+          "display_time": "03:00 pm",
+          "booking_url": "https://www.ica.art/book/753801",
+          "formats": [
+            "Cinema 1"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-11",
+          "time": "15:30",
+          "display_time": "03:30 pm",
+          "booking_url": "https://www.ica.art/book/753801",
+          "formats": [
+            "Cinema 1"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-12",
+          "time": "13:30",
+          "display_time": "01:30 pm",
+          "booking_url": "https://www.ica.art/book/753801",
+          "formats": [
+            "Cinema 2"
+          ],
+          "sold_out": false
         }
       ],
       "venue": "ica",
@@ -16586,17 +16299,6 @@
       "film_url": "https://www.ica.art/films/nostalgia-4k",
       "synopsis": "Andrei Tarkovsky’s unforgettably haunting film, his first to be made outside Russia, explores the melancholy of the expatriate through the journey of Gorchakov, a Russian poet researching in Italy. Arriving at a Tuscan village spa with Eugenia, his Italian interpreter, Gorchakov is visited by memories of Russia and of his wife and children, as he encounters the local mystic who sets him a challenging task. Filled with a series of mysterious and extraordinary images, all of which coalesce into a miraculous whole in the film’s final shot, Nostalgia , is, as with so much of Tarkovsky's work, a fi",
       "screenings": [
-        {
-          "venue": "ica",
-          "date": "2026-08-01",
-          "time": "20:30",
-          "display_time": "08:30 pm",
-          "booking_url": "https://www.ica.art/book/745801",
-          "formats": [
-            "Cinema 1"
-          ],
-          "sold_out": false
-        },
         {
           "venue": "ica",
           "date": "2026-08-04",
@@ -16622,6 +16324,28 @@
         {
           "venue": "ica",
           "date": "2026-08-06",
+          "time": "13:00",
+          "display_time": "01:00 pm",
+          "booking_url": "https://www.ica.art/book/745801",
+          "formats": [
+            "Cinema 1"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-07",
+          "time": "12:30",
+          "display_time": "12:30 pm",
+          "booking_url": "https://www.ica.art/book/745801",
+          "formats": [
+            "Cinema 1"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-11",
           "time": "13:00",
           "display_time": "01:00 pm",
           "booking_url": "https://www.ica.art/book/745801",
@@ -16725,6 +16449,28 @@
             "Cinema 2"
           ],
           "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-09",
+          "time": "12:05",
+          "display_time": "12:05 pm",
+          "booking_url": "https://www.ica.art/book/742801",
+          "formats": [
+            "Cinema 2"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-11",
+          "time": "13:00",
+          "display_time": "01:00 pm",
+          "booking_url": "https://www.ica.art/book/742801",
+          "formats": [
+            "Cinema 2"
+          ],
+          "sold_out": false
         }
       ],
       "venue": "ica",
@@ -16741,17 +16487,6 @@
       "film_url": "https://www.ica.art/films/rosebush-pruning",
       "synopsis": "Underneath the Catalonian sun, a rich white American family lives in hedonistic isolation, seeking love and validation through one another, their designer wardrobes and pop music. When an outsider infiltrates the family, buried tensions surface and blood ties are severed. An outrageous, biting satire on the absurdity of the patriarchal family, starring Callum Turner, Riley Keough, Jamie Bell, Lukas Gage, Elena Anaya, Tracy Letts, Elle Fanning and Pamela Anderson",
       "screenings": [
-        {
-          "venue": "ica",
-          "date": "2026-08-01",
-          "time": "20:15",
-          "display_time": "08:15 pm",
-          "booking_url": "https://www.ica.art/book/749201",
-          "formats": [
-            "Cinema 2"
-          ],
-          "sold_out": false
-        },
         {
           "venue": "ica",
           "date": "2026-08-02",
@@ -16771,6 +16506,28 @@
           "booking_url": "https://www.ica.art/book/749201",
           "formats": [
             "Cinema 2"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-09",
+          "time": "20:00",
+          "display_time": "08:00 pm",
+          "booking_url": "https://www.ica.art/book/749201",
+          "formats": [
+            "Cinema 2"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "ica",
+          "date": "2026-08-12",
+          "time": "12:30",
+          "display_time": "12:30 pm",
+          "booking_url": "https://www.ica.art/book/749201",
+          "formats": [
+            "Cinema 1"
           ],
           "sold_out": false
         }
@@ -17358,63 +17115,6 @@
       "classic": true
     },
     {
-      "title": "A Private Life",
-      "year": null,
-      "director": "Rebecca Zlotowski",
-      "runtime": "108mins",
-      "country": "France",
-      "certificate": "15",
-      "poster": "https://images.savoysystems.co.uk/PXL/573631.jpg",
-      "film_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=573632",
-      "synopsis": "The renowned psychiatrist Lilian Steiner mounts a private investigation into the death of one of her patients, whom she is convinced has been murdered.",
-      "screenings": [
-        {
-          "venue": "phoenix",
-          "date": "2026-08-01",
-          "time": "13:45",
-          "display_time": "1:45 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_634493.TcsSection_720",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "phoenix",
-          "date": "2026-08-06",
-          "time": "17:45",
-          "display_time": "5:45 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_634419.TcsSection_720",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "phoenix",
-      "classic": false
-    },
-    {
-      "title": "Exhibition on Screen: Cezanne - Portraits of a Life",
-      "year": 2018,
-      "director": "Phil Grabsky",
-      "runtime": "86mins",
-      "country": "UK",
-      "certificate": "12A",
-      "poster": "https://images.savoysystems.co.uk/PXL/551389.jpg",
-      "film_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=551390",
-      "synopsis": "Dedicated to the portrait work of Paul Cezanne, the exhibition opens in Paris before traveling to London and Washington. One cannot appreciate 20th century art without understanding the significance and genius of Paul Cezanne. Filmed at the National Portrait Gallery in London, with additional interv...",
-      "screenings": [
-        {
-          "venue": "phoenix",
-          "date": "2026-08-01",
-          "time": "14:00",
-          "display_time": "2:00 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_560320.TcsSection_543",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "phoenix",
-      "classic": false
-    },
-    {
       "title": "The Odyssey",
       "year": 2026,
       "director": "Christopher Nolan",
@@ -17425,24 +17125,6 @@
       "film_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=545949",
       "synopsis": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "screenings": [
-        {
-          "venue": "phoenix",
-          "date": "2026-08-01",
-          "time": "16:10",
-          "display_time": "4:10 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_634431.TcsSection_543",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "phoenix",
-          "date": "2026-08-01",
-          "time": "19:45",
-          "display_time": "7:45 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_634433.TcsSection_543",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "phoenix",
           "date": "2026-08-02",
@@ -17659,6 +17341,32 @@
       "classic": false
     },
     {
+      "title": "Almodovar Season: All About My Mother",
+      "year": 1999,
+      "director": "Pedro Almodovar",
+      "runtime": "97mins",
+      "country": "Spain",
+      "certificate": "15",
+      "poster": "https://images.savoysystems.co.uk/PXL/536848.jpg",
+      "film_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=536851",
+      "synopsis": "The Phoenix invites you to their summer season of Almodovar classics, celebrating the legendary director's colourful tales of melodrama and metafiction in all their vibrant glory. All About My Mother is often thought of as Pedro Almodovar' s masterpiece, winning the award for Best Foreign Language...",
+      "screenings": [
+        {
+          "venue": "phoenix",
+          "date": "2026-08-02",
+          "time": "14:00",
+          "display_time": "2:00 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_536875.TcsSection_543",
+          "formats": [
+            "SUB"
+          ],
+          "sold_out": false
+        }
+      ],
+      "venue": "phoenix",
+      "classic": true
+    },
+    {
       "title": "Toy Story 5",
       "year": 2026,
       "director": "Andrew Stanton",
@@ -17669,15 +17377,6 @@
       "film_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=591823",
       "synopsis": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "screenings": [
-        {
-          "venue": "phoenix",
-          "date": "2026-08-01",
-          "time": "16:15",
-          "display_time": "4:15 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_634427.TcsSection_720",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "phoenix",
           "date": "2026-08-02",
@@ -17749,15 +17448,6 @@
       "screenings": [
         {
           "venue": "phoenix",
-          "date": "2026-08-01",
-          "time": "19:30",
-          "display_time": "7:30 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_634428.TcsSection_720",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "phoenix",
           "date": "2026-08-02",
           "time": "19:30",
           "display_time": "7:30 pm",
@@ -17795,32 +17485,6 @@
       ],
       "venue": "phoenix",
       "classic": false
-    },
-    {
-      "title": "Almodovar Season: All About My Mother",
-      "year": 1999,
-      "director": "Pedro Almodovar",
-      "runtime": "97mins",
-      "country": "Spain",
-      "certificate": "15",
-      "poster": "https://images.savoysystems.co.uk/PXL/536848.jpg",
-      "film_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=536851",
-      "synopsis": "The Phoenix invites you to their summer season of Almodovar classics, celebrating the legendary director's colourful tales of melodrama and metafiction in all their vibrant glory. All About My Mother is often thought of as Pedro Almodovar' s masterpiece, winning the award for Best Foreign Language...",
-      "screenings": [
-        {
-          "venue": "phoenix",
-          "date": "2026-08-02",
-          "time": "14:00",
-          "display_time": "2:00 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_536875.TcsSection_543",
-          "formats": [
-            "SUB"
-          ],
-          "sold_out": false
-        }
-      ],
-      "venue": "phoenix",
-      "classic": true
     },
     {
       "title": "Tuner",
@@ -17872,6 +17536,30 @@
           "time": "20:00",
           "display_time": "8:00 pm",
           "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_567233.TcsSection_543",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "phoenix",
+      "classic": false
+    },
+    {
+      "title": "A Private Life",
+      "year": null,
+      "director": "Rebecca Zlotowski",
+      "runtime": "108mins",
+      "country": "France",
+      "certificate": "15",
+      "poster": "https://images.savoysystems.co.uk/PXL/573631.jpg",
+      "film_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=573632",
+      "synopsis": "The renowned psychiatrist Lilian Steiner mounts a private investigation into the death of one of her patients, whom she is convinced has been murdered.",
+      "screenings": [
+        {
+          "venue": "phoenix",
+          "date": "2026-08-06",
+          "time": "17:45",
+          "display_time": "5:45 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_634419.TcsSection_720",
           "formats": [],
           "sold_out": false
         }
@@ -19500,24 +19188,6 @@
       "screenings": [
         {
           "venue": "rio",
-          "date": "2026-08-01",
-          "time": "15:15",
-          "display_time": "3:15 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2749966.TcsSection_936",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "rio",
-          "date": "2026-08-01",
-          "time": "19:00",
-          "display_time": "7:00 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2749968.TcsSection_936",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "rio",
           "date": "2026-08-02",
           "time": "15:15",
           "display_time": "3:15 pm",
@@ -19656,66 +19326,6 @@
       "classic": false
     },
     {
-      "title": "THE INVITE",
-      "year": null,
-      "director": "Olivia Wilde",
-      "runtime": "106mins",
-      "country": "USA",
-      "certificate": "15",
-      "poster": "https://images.savoysystems.co.uk/RIL/2651200.jpg",
-      "film_url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2651201",
-      "synopsis": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbours for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down? Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are on unmissa...",
-      "screenings": [
-        {
-          "venue": "rio",
-          "date": "2026-08-01",
-          "time": "16:00",
-          "display_time": "4:00 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2749970.TcsSection_1299",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "rio",
-          "date": "2026-08-02",
-          "time": "19:40",
-          "display_time": "7:40 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2750010.TcsSection_1299",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "rio",
-          "date": "2026-08-04",
-          "time": "20:40",
-          "display_time": "8:40 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2750078.TcsSection_1299",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "rio",
-          "date": "2026-08-09",
-          "time": "19:40",
-          "display_time": "7:40 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2767913.TcsSection_1299",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "rio",
-          "date": "2026-08-11",
-          "time": "20:40",
-          "display_time": "8:40 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2767961.TcsSection_1299",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "rio",
-      "classic": false
-    },
-    {
       "title": "ISH",
       "year": 2025,
       "director": "Imran Perretta",
@@ -19726,15 +19336,6 @@
       "film_url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2738971",
       "synopsis": "Set and filmed within Luton's South Asian and Middle Eastern community, Imran Perretta's Venice Critics' Week Audience Award-winning, black-and-white debut follows 12-year-old best friends Ish and Maram as they navigate childhood against a backdrop of political tension and personal loss. After a pol...",
       "screenings": [
-        {
-          "venue": "rio",
-          "date": "2026-08-01",
-          "time": "18:30",
-          "display_time": "6:30 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2742899.TcsSection_1299",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "rio",
           "date": "2026-08-02",
@@ -19796,6 +19397,83 @@
       "classic": false
     },
     {
+      "title": "THE INVITE",
+      "year": null,
+      "director": "Olivia Wilde",
+      "runtime": "106mins",
+      "country": "USA",
+      "certificate": "15",
+      "poster": "https://images.savoysystems.co.uk/RIL/2651200.jpg",
+      "film_url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2651201",
+      "synopsis": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbours for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down? Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are on unmissa...",
+      "screenings": [
+        {
+          "venue": "rio",
+          "date": "2026-08-02",
+          "time": "19:40",
+          "display_time": "7:40 pm",
+          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2750010.TcsSection_1299",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "rio",
+          "date": "2026-08-04",
+          "time": "20:40",
+          "display_time": "8:40 pm",
+          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2750078.TcsSection_1299",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "rio",
+          "date": "2026-08-09",
+          "time": "19:40",
+          "display_time": "7:40 pm",
+          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2767913.TcsSection_1299",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "rio",
+          "date": "2026-08-11",
+          "time": "20:40",
+          "display_time": "8:40 pm",
+          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2767961.TcsSection_1299",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "rio",
+      "classic": false
+    },
+    {
+      "title": "Carers & Babies: ISH",
+      "year": 2025,
+      "director": "Imran Perretta",
+      "runtime": "89mins",
+      "country": "UK",
+      "certificate": "15",
+      "poster": "https://images.savoysystems.co.uk/RIL/2749442.jpg",
+      "film_url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2749440",
+      "synopsis": "Set and filmed within Luton's South Asian and Middle Eastern community, Imran Perretta's Venice Critics' Week Audience Award-winning, black-and-white debut follows 12-year-old best friends Ish and Maram as they navigate childhood against a backdrop of political tension and personal loss. After a pol...",
+      "screenings": [
+        {
+          "venue": "rio",
+          "date": "2026-08-03",
+          "time": "11:00",
+          "display_time": "11:00 am",
+          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2750017.TcsSection_936",
+          "formats": [
+            "Carers & Babies"
+          ],
+          "sold_out": false
+        }
+      ],
+      "venue": "rio",
+      "classic": false
+    },
+    {
       "title": "ON THE SEA",
       "year": 2025,
       "director": "Helen Walsh",
@@ -19806,15 +19484,6 @@
       "film_url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2738990",
       "synopsis": "Married to Maggie for over half his life, Jack works the mussel beds of North Wales alongside his younger brother, Dyfan, and Dyfan’s three sons. He has always assumed his own son, Tom, will join the family business, but Tom’s resistance creates growing tension. When itinerant deckhand Daniel arrive...",
       "screenings": [
-        {
-          "venue": "rio",
-          "date": "2026-08-01",
-          "time": "20:40",
-          "display_time": "8:40 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2742912.TcsSection_1299",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "rio",
           "date": "2026-08-03",
@@ -19867,32 +19536,6 @@
           "display_time": "8:40 pm",
           "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2767967.TcsSection_1299",
           "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "rio",
-      "classic": false
-    },
-    {
-      "title": "Carers & Babies: ISH",
-      "year": 2025,
-      "director": "Imran Perretta",
-      "runtime": "89mins",
-      "country": "UK",
-      "certificate": "15",
-      "poster": "https://images.savoysystems.co.uk/RIL/2749442.jpg",
-      "film_url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2749440",
-      "synopsis": "Set and filmed within Luton's South Asian and Middle Eastern community, Imran Perretta's Venice Critics' Week Audience Award-winning, black-and-white debut follows 12-year-old best friends Ish and Maram as they navigate childhood against a backdrop of political tension and personal loss. After a pol...",
-      "screenings": [
-        {
-          "venue": "rio",
-          "date": "2026-08-03",
-          "time": "11:00",
-          "display_time": "11:00 am",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2750017.TcsSection_936",
-          "formats": [
-            "Carers & Babies"
-          ],
           "sold_out": false
         }
       ],
@@ -20515,15 +20158,6 @@
       "screenings": [
         {
           "venue": "garden",
-          "date": "2026-08-01",
-          "time": "11:00",
-          "display_time": "11:00 am",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5525470.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
           "date": "2026-08-02",
           "time": "11:00",
           "display_time": "11:00 am",
@@ -20542,15 +20176,6 @@
         },
         {
           "venue": "garden",
-          "date": "2026-08-01",
-          "time": "11:00",
-          "display_time": "11:00 am",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5525470.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
           "date": "2026-08-02",
           "time": "11:00",
           "display_time": "11:00 am",
@@ -20564,918 +20189,6 @@
           "time": "14:45",
           "display_time": "2:45 pm",
           "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5525480.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "garden",
-      "classic": true
-    },
-    {
-      "title": "The Philadelphia Story",
-      "year": 1941,
-      "director": "George Cukor",
-      "runtime": "112mins",
-      "country": "USA",
-      "certificate": "U",
-      "poster": "https://images.savoysystems.co.uk/GCL/5390772.jpg",
-      "film_url": "https://www.thegardencinema.co.uk/film/the-philadelphia-story/",
-      "synopsis": "The screening on Wednesday 8 July will be introduced by Professor, Filmmaker and Producer, Charlotte Crofts . Katharine Hepburn is Tracy Lord, the breezy socialite whose looming wedding to a dull self-made millionaire brings her ex-husband C.K. Dexter Haven (Cary Grant) back into her life. Playful on its sparkling surface but canny and insightful at its heart, the Oscar-winning screenplay by Donald Ogden Stewart (adapted from Philip Barry’s play) delivers cutting truths about romance, marriage and forgiveness while giving the nimble ensemble of actors (including an Oscar-winning James Stewart ",
-      "screenings": [
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "13:00",
-          "display_time": "1:00 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5414210.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "13:00",
-          "display_time": "1:00 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5414210.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "garden",
-      "classic": true
-    },
-    {
-      "title": "The Sacrifice",
-      "year": 1986,
-      "director": "Andrei Tarkovsky, Sweden, UK",
-      "runtime": "149mins",
-      "country": "France",
-      "certificate": "12",
-      "poster": "https://images.savoysystems.co.uk/GCL/5735089.jpg",
-      "film_url": "https://www.thegardencinema.co.uk/film/the-sacrifice/",
-      "synopsis": "New digital restoration. Alexander is an old writer living in seclusion on a Swedish island. During an evening with friends, he learns that a global nuclear war has broken out, which means the end of the world is coming. Alexander is ready to sacrifice everything to get things back to the way they were, and is told that the local witch might be able to grant his wish. Cast: Erland Josephson, Susan Fleetwood, Allan Edwall, Guðrún Gísladóttir Please arrive promptly - we do not show adverts.",
-      "screenings": [
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "13:15",
-          "display_time": "1:15 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5735547.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-02",
-          "time": "18:30",
-          "display_time": "6:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5735549.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-05",
-          "time": "17:40",
-          "display_time": "5:40 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5735551.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-06",
-          "time": "14:30",
-          "display_time": "2:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5735553.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "13:15",
-          "display_time": "1:15 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5735547.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-02",
-          "time": "18:30",
-          "display_time": "6:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5735549.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-05",
-          "time": "17:40",
-          "display_time": "5:40 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5735551.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-06",
-          "time": "14:30",
-          "display_time": "2:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5735553.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "garden",
-      "classic": true
-    },
-    {
-      "title": "Ish",
-      "year": 2025,
-      "director": "Imran Perretta",
-      "runtime": "89mins",
-      "country": "UK",
-      "certificate": "15",
-      "poster": "https://images.savoysystems.co.uk/GCL/5803142.jpg",
-      "film_url": "https://www.thegardencinema.co.uk/film/ish/",
-      "synopsis": "Our 18:30 screening on 1 August will be followed by a Q&A with director Imran Perretta and producer Dhiraj Mahey. Set and filmed in Luton, Ish follows 12-year-old best friends Ish (Farhan Hasnat) and Maram (Yahya Kitana), who wrestle to hold onto their friendship in the wake of a police stop and search. As the ripples take hold, the boys try to make sense of the men they are becoming - and how letting go can be the hardest part of growing up. Written and directed by acclaimed artist Imran Perretta and co-written by Enda Walsh ( Hunger ), Ish was shot by cinematographer Jermaine Canute Edwards ",
-      "screenings": [
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "13:30",
-          "display_time": "1:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803169.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-02",
-          "time": "17:15",
-          "display_time": "5:15 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904556.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-03",
-          "time": "15:30",
-          "display_time": "3:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803173.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-04",
-          "time": "18:30",
-          "display_time": "6:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803177.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-05",
-          "time": "13:50",
-          "display_time": "1:50 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803181.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-06",
-          "time": "18:15",
-          "display_time": "6:15 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803183.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "13:30",
-          "display_time": "1:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803169.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "18:30",
-          "display_time": "6:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803171.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-02",
-          "time": "17:15",
-          "display_time": "5:15 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904556.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-03",
-          "time": "15:30",
-          "display_time": "3:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803173.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-03",
-          "time": "20:00",
-          "display_time": "8:00 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803175.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-04",
-          "time": "18:30",
-          "display_time": "6:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803177.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-05",
-          "time": "13:50",
-          "display_time": "1:50 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803181.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-05",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803179.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-06",
-          "time": "18:15",
-          "display_time": "6:15 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803183.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "garden",
-      "classic": false
-    },
-    {
-      "title": "Full Moon in New York",
-      "year": 1989,
-      "director": "Stanley Kwan",
-      "runtime": "88mins",
-      "country": "Hong Kong",
-      "certificate": "15",
-      "poster": "https://images.savoysystems.co.uk/GCL/5710584.jpg",
-      "film_url": "https://www.thegardencinema.co.uk/film/full-moon-in-new-york-qa/",
-      "synopsis": "*Please note that whilst tickets for the Q&A screening of Full Moon in New York are currently sold out, Stanley Kwan will attend an in-person masterclass on 26 August and free registration is available here . The screening on 25 August will be followed by an in-person Q&A with the director Stanley Kwan, moderated by Prof Victor Fan (KCL). Full Moon in New York is a unique work within Stanley Kwan’s filmography and remains his only feature set primarily in an overseas city. Set against the growing tide of Chinese migration in the late twentieth century, Kwan offers a poignant reflection on disp",
-      "screenings": [
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "15:30",
-          "display_time": "3:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5711660.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-25",
-          "time": "17:30",
-          "display_time": "5:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5711684.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "15:30",
-          "display_time": "3:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5711660.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-25",
-          "time": "17:30",
-          "display_time": "5:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5711684.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "garden",
-      "classic": true
-    },
-    {
-      "title": "Coup 53",
-      "year": 2020,
-      "director": "Taghi Amirani, UK",
-      "runtime": "119mins",
-      "country": "Iran",
-      "certificate": "15",
-      "poster": "https://images.savoysystems.co.uk/GCL/5684716.jpg",
-      "film_url": "https://www.thegardencinema.co.uk/film/coup-53-intro/",
-      "synopsis": "The screening on 31 July will be followed by a Q&A with director Taghi Amirani and Academy Award- winning editor Walter Murch, hosted by the Iranian Film Club's Zhaleh Bahraini. With Iran and the world once again on the brink, Coup 53 feels less like history and more like a warning. In 1953, a military coup led by British MI6 backed by the CIA overthrew Iran's democratically elected Prime Minister, Mohammad Mossadegh. His crime: nationalising the country's oil. The truth behind that original regime change for oil was buried for decades. Iranian director Taghi Amirani spent ten years uncovering",
-      "screenings": [
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "15:45",
-          "display_time": "3:45 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5869905.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-03",
-          "time": "15:15",
-          "display_time": "3:15 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5869942.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-04",
-          "time": "18:10",
-          "display_time": "6:10 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5869947.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-06",
-          "time": "15:00",
-          "display_time": "3:00 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5869952.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "15:45",
-          "display_time": "3:45 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5869905.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-03",
-          "time": "15:15",
-          "display_time": "3:15 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5869942.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-04",
-          "time": "18:10",
-          "display_time": "6:10 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5869947.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-06",
-          "time": "15:00",
-          "display_time": "3:00 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5869952.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "garden",
-      "classic": false
-    },
-    {
-      "title": "Blue Heron",
-      "year": 2025,
-      "director": "Sophy Romvari, Canada",
-      "runtime": "90mins",
-      "country": "Hungary",
-      "certificate": "12A",
-      "poster": "https://images.savoysystems.co.uk/GCL/5713631.jpg",
-      "film_url": "https://www.thegardencinema.co.uk/film/blue-heron/",
-      "synopsis": "Set on Vancouver Island in the late 1990s, Blue Heron follows eight-year-old Sasha and her Hungarian immigrant family as they attempt to build a new life, only to be destabilised by the increasingly dangerous behaviour of her older brother, Jeremy. Drawing on her own memories, filmmaker Sophy Romvari shapes a deeply personal portrait of childhood, family fractures, and the fragility of recollection. The Garden Cinema View: Sophy Romvari’s feature debut should strike a chord with anyone who grew up, or raised children, during the 1990s. She evokes such an authentic sense of family dynamics, and",
-      "screenings": [
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "16:10",
-          "display_time": "4:10 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938435.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-03",
-          "time": "17:45",
-          "display_time": "5:45 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938499.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "16:10",
-          "display_time": "4:10 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938435.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-03",
-          "time": "17:45",
-          "display_time": "5:45 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938499.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "garden",
-      "classic": false
-    },
-    {
-      "title": "Klute",
-      "year": 1971,
-      "director": "Alan J. Pakula",
-      "runtime": "114mins",
-      "country": "USA",
-      "certificate": "15",
-      "poster": "https://images.savoysystems.co.uk/GCL/5710824.jpg",
-      "film_url": "https://www.thegardencinema.co.uk/film/klute/",
-      "synopsis": "Klute was suggested by our member Colin Marsh, who writes: 'Alan J Pakula’s memorably atmospheric 1971 thriller starring Donald Sutherland and a stunning Best Actress Oscar performance from the wonderful Jane Fonda in the unforgettable role of Bree Daniels..' With her Oscar-winning turn in Klute , Jane Fonda reinvented herself as a new kind of movie star. Bringing nervy audacity and counterculture style to the role of Bree Daniels—a call girl and aspiring actor who becomes the focal point of a missing-person investigation when detective John Klute (Donald Sutherland) turns up at her door—Fonda",
-      "screenings": [
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "18:00",
-          "display_time": "6:00 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5731148.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-31",
-          "time": "15:30",
-          "display_time": "3:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5731154.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "18:00",
-          "display_time": "6:00 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5731148.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-31",
-          "time": "15:30",
-          "display_time": "3:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5731154.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "garden",
-      "classic": true
-    },
-    {
-      "title": "The Day She Returns",
-      "year": 2026,
-      "director": "Hong Sangsoo",
-      "runtime": "84mins",
-      "country": "South Korea",
-      "certificate": "18",
-      "poster": "https://images.savoysystems.co.uk/GCL/5904505.jpg",
-      "film_url": "https://www.thegardencinema.co.uk/film/the-day-she-returns/",
-      "synopsis": "The Day She Returns follows actress Bae Jeongsu (Song Sunmi), who, having stepped back from acting after marriage and a subsequent divorce, returns to the profession with a role in an independent film. As the film’s release approaches, she takes part in a series of press interviews. A subtle meditation on memory and performance, Hong Sangsoo's latest film unfolds through a series of increasingly intimate conversations, as he continues his exploration of the boundaries between lived experience and artistic creation. The Garden Cinema View: Hong Sangsoo’s latest provides a particularly distilled",
-      "screenings": [
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "18:15",
-          "display_time": "6:15 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904554.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-02",
-          "time": "15:20",
-          "display_time": "3:20 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904558.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-03",
-          "time": "20:30",
-          "display_time": "8:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904560.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-04",
-          "time": "16:40",
-          "display_time": "4:40 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904562.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-05",
-          "time": "14:05",
-          "display_time": "2:05 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904564.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-06",
-          "time": "17:30",
-          "display_time": "5:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904566.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "18:15",
-          "display_time": "6:15 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904554.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-02",
-          "time": "15:20",
-          "display_time": "3:20 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904558.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-03",
-          "time": "20:30",
-          "display_time": "8:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904560.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-04",
-          "time": "16:40",
-          "display_time": "4:40 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904562.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-05",
-          "time": "14:05",
-          "display_time": "2:05 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904564.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-06",
-          "time": "17:30",
-          "display_time": "5:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904566.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "garden",
-      "classic": false
-    },
-    {
-      "title": "Nostalghia",
-      "year": 1983,
-      "director": "Andrei Tarkovsky, Soviet Union",
-      "runtime": "125mins",
-      "country": "Italy",
-      "certificate": "12A",
-      "poster": "https://images.savoysystems.co.uk/GCL/5734975.jpg",
-      "film_url": "https://www.thegardencinema.co.uk/film/nostalgia-2/",
-      "synopsis": "New digital restoration. A Russian poet, Andrei, conducts research in Italy on a composer from his homeland. There, he meets old Domenico, a man many consider insane. Domenico entrusts him with a highly original mission: to cross the Bagno Vignoni thermal bath with a lighted candle. Cast: Oleg Yankovskiy, Erland Josephson, Domiziana Giordano, Patrizia Terreno Please arrive promptly - we do not show adverts.",
-      "screenings": [
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "20:10",
-          "display_time": "8:10 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938433.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-03",
-          "time": "19:45",
-          "display_time": "7:45 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938497.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-04",
-          "time": "14:45",
-          "display_time": "2:45 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938569.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-05",
-          "time": "17:25",
-          "display_time": "5:25 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938545.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-06",
-          "time": "19:45",
-          "display_time": "7:45 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938534.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "20:10",
-          "display_time": "8:10 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938433.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-03",
-          "time": "19:45",
-          "display_time": "7:45 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938497.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-04",
-          "time": "14:45",
-          "display_time": "2:45 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938569.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-05",
-          "time": "17:25",
-          "display_time": "5:25 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938545.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-06",
-          "time": "19:45",
-          "display_time": "7:45 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938534.TcsSection_971",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "garden",
-      "classic": true
-    },
-    {
-      "title": "The Invite",
-      "year": 2026,
-      "director": "Olivia Wilde",
-      "runtime": "106mins",
-      "country": "USA",
-      "certificate": "15",
-      "poster": "https://images.savoysystems.co.uk/GCL/5730014.jpg",
-      "film_url": "https://www.thegardencinema.co.uk/film/the-invite/",
-      "synopsis": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down? The Garden Cinema View: If, like us, the sight of an all celebrity cast raises an eyebrow of cinephile suspicion, think again. Olivia Wilde amazes with her third feature, a taut, hyperintense chamber piece about sex, stale marriages, foursomes, and the quiet ways we let ourselves go. A perfect storm of happy occasions, it's built on the airtight script by Rashida Jones a",
-      "screenings": [
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "20:30",
-          "display_time": "8:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938437.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-02",
-          "time": "19:30",
-          "display_time": "7:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938483.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-03",
-          "time": "15:00",
-          "display_time": "3:00 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938501.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-04",
-          "time": "17:45",
-          "display_time": "5:45 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938526.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-06",
-          "time": "20:15",
-          "display_time": "8:15 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938573.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "20:30",
-          "display_time": "8:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938437.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-02",
-          "time": "19:30",
-          "display_time": "7:30 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938483.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-03",
-          "time": "15:00",
-          "display_time": "3:00 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938501.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-04",
-          "time": "17:45",
-          "display_time": "5:45 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938526.TcsSection_638",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-06",
-          "time": "20:15",
-          "display_time": "8:15 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938573.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "garden",
-      "classic": false
-    },
-    {
-      "title": "Paprika – 20th anniversary",
-      "year": 2006,
-      "director": "Satoshi Kon",
-      "runtime": "90mins",
-      "country": "Japan",
-      "certificate": "15",
-      "poster": "https://images.savoysystems.co.uk/GCL/5839566.jpg",
-      "film_url": "https://www.thegardencinema.co.uk/film/paprika-20th-anniversary/",
-      "synopsis": "Satoshi's Kon's visionary and mind-melting anime Paprika returns for its 20th anniversary. Prepare to enter the realm of fantasy and imagination - where reality and dreams collide in a kaleidoscopic mindscape of sheer visual genius. The film centres on a revolutionary machine that allows scientists to enter and record a subject's dream - (the inspiration for Christopher Nolan's Inception ). After being stolen, a fearless detective and brilliant therapist join forces to recover the device - before it falls into the hands of a 'dream terrorist' in this gripping anime thriller from acclaimed dire",
-      "screenings": [
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "21:00",
-          "display_time": "9:00 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938431.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-04",
-          "time": "20:40",
-          "display_time": "8:40 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938571.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-05",
-          "time": "15:45",
-          "display_time": "3:45 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938382.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-01",
-          "time": "21:00",
-          "display_time": "9:00 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938431.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-04",
-          "time": "20:40",
-          "display_time": "8:40 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938571.TcsSection_3060731",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "garden",
-          "date": "2026-08-05",
-          "time": "15:45",
-          "display_time": "3:45 pm",
-          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938382.TcsSection_3060731",
           "formats": [],
           "sold_out": false
         }
@@ -21688,6 +20401,111 @@
       "classic": true
     },
     {
+      "title": "The Day She Returns",
+      "year": 2026,
+      "director": "Hong Sangsoo",
+      "runtime": "84mins",
+      "country": "South Korea",
+      "certificate": "18",
+      "poster": "https://images.savoysystems.co.uk/GCL/5904505.jpg",
+      "film_url": "https://www.thegardencinema.co.uk/film/the-day-she-returns/",
+      "synopsis": "The Day She Returns follows actress Bae Jeongsu (Song Sunmi), who, having stepped back from acting after marriage and a subsequent divorce, returns to the profession with a role in an independent film. As the film’s release approaches, she takes part in a series of press interviews. A subtle meditation on memory and performance, Hong Sangsoo's latest film unfolds through a series of increasingly intimate conversations, as he continues his exploration of the boundaries between lived experience and artistic creation. The Garden Cinema View: Hong Sangsoo’s latest provides a particularly distilled",
+      "screenings": [
+        {
+          "venue": "garden",
+          "date": "2026-08-02",
+          "time": "15:20",
+          "display_time": "3:20 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904558.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-03",
+          "time": "20:30",
+          "display_time": "8:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904560.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-04",
+          "time": "16:40",
+          "display_time": "4:40 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904562.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-05",
+          "time": "14:05",
+          "display_time": "2:05 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904564.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-06",
+          "time": "17:30",
+          "display_time": "5:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904566.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-02",
+          "time": "15:20",
+          "display_time": "3:20 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904558.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-03",
+          "time": "20:30",
+          "display_time": "8:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904560.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-04",
+          "time": "16:40",
+          "display_time": "4:40 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904562.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-05",
+          "time": "14:05",
+          "display_time": "2:05 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904564.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-06",
+          "time": "17:30",
+          "display_time": "5:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904566.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "garden",
+      "classic": false
+    },
+    {
       "title": "Desperately Seeking Susan",
       "year": 1985,
       "director": "Susan Seidelman",
@@ -21746,6 +20564,198 @@
           "time": "17:00",
           "display_time": "5:00 pm",
           "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5414216.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "garden",
+      "classic": true
+    },
+    {
+      "title": "Ish",
+      "year": 2025,
+      "director": "Imran Perretta",
+      "runtime": "89mins",
+      "country": "UK",
+      "certificate": "15",
+      "poster": "https://images.savoysystems.co.uk/GCL/5803142.jpg",
+      "film_url": "https://www.thegardencinema.co.uk/film/ish/",
+      "synopsis": "Our 18:30 screening on 1 August will be followed by a Q&A with director Imran Perretta and producer Dhiraj Mahey. Set and filmed in Luton, Ish follows 12-year-old best friends Ish (Farhan Hasnat) and Maram (Yahya Kitana), who wrestle to hold onto their friendship in the wake of a police stop and search. As the ripples take hold, the boys try to make sense of the men they are becoming - and how letting go can be the hardest part of growing up. Written and directed by acclaimed artist Imran Perretta and co-written by Enda Walsh ( Hunger ), Ish was shot by cinematographer Jermaine Canute Edwards ",
+      "screenings": [
+        {
+          "venue": "garden",
+          "date": "2026-08-02",
+          "time": "17:15",
+          "display_time": "5:15 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904556.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-03",
+          "time": "15:30",
+          "display_time": "3:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803173.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-04",
+          "time": "18:30",
+          "display_time": "6:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803177.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-05",
+          "time": "13:50",
+          "display_time": "1:50 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803181.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-06",
+          "time": "18:15",
+          "display_time": "6:15 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803183.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-02",
+          "time": "17:15",
+          "display_time": "5:15 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5904556.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-03",
+          "time": "15:30",
+          "display_time": "3:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803173.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-03",
+          "time": "20:00",
+          "display_time": "8:00 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803175.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-04",
+          "time": "18:30",
+          "display_time": "6:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803177.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-05",
+          "time": "13:50",
+          "display_time": "1:50 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803181.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-05",
+          "time": "20:45",
+          "display_time": "8:45 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803179.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-06",
+          "time": "18:15",
+          "display_time": "6:15 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803183.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "garden",
+      "classic": false
+    },
+    {
+      "title": "The Sacrifice",
+      "year": 1986,
+      "director": "Andrei Tarkovsky, Sweden, UK",
+      "runtime": "149mins",
+      "country": "France",
+      "certificate": "12",
+      "poster": "https://images.savoysystems.co.uk/GCL/5735089.jpg",
+      "film_url": "https://www.thegardencinema.co.uk/film/the-sacrifice/",
+      "synopsis": "New digital restoration. Alexander is an old writer living in seclusion on a Swedish island. During an evening with friends, he learns that a global nuclear war has broken out, which means the end of the world is coming. Alexander is ready to sacrifice everything to get things back to the way they were, and is told that the local witch might be able to grant his wish. Cast: Erland Josephson, Susan Fleetwood, Allan Edwall, Guðrún Gísladóttir Please arrive promptly - we do not show adverts.",
+      "screenings": [
+        {
+          "venue": "garden",
+          "date": "2026-08-02",
+          "time": "18:30",
+          "display_time": "6:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5735549.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-05",
+          "time": "17:40",
+          "display_time": "5:40 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5735551.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-06",
+          "time": "14:30",
+          "display_time": "2:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5735553.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-02",
+          "time": "18:30",
+          "display_time": "6:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5735549.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-05",
+          "time": "17:40",
+          "display_time": "5:40 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5735551.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-06",
+          "time": "14:30",
+          "display_time": "2:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5735553.TcsSection_638",
           "formats": [],
           "sold_out": false
         }
@@ -21823,6 +20833,195 @@
       "classic": false
     },
     {
+      "title": "The Invite",
+      "year": 2026,
+      "director": "Olivia Wilde",
+      "runtime": "106mins",
+      "country": "USA",
+      "certificate": "15",
+      "poster": "https://images.savoysystems.co.uk/GCL/5730014.jpg",
+      "film_url": "https://www.thegardencinema.co.uk/film/the-invite/",
+      "synopsis": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down? The Garden Cinema View: If, like us, the sight of an all celebrity cast raises an eyebrow of cinephile suspicion, think again. Olivia Wilde amazes with her third feature, a taut, hyperintense chamber piece about sex, stale marriages, foursomes, and the quiet ways we let ourselves go. A perfect storm of happy occasions, it's built on the airtight script by Rashida Jones a",
+      "screenings": [
+        {
+          "venue": "garden",
+          "date": "2026-08-02",
+          "time": "19:30",
+          "display_time": "7:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938483.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-03",
+          "time": "15:00",
+          "display_time": "3:00 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938501.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-04",
+          "time": "17:45",
+          "display_time": "5:45 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938526.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-06",
+          "time": "20:15",
+          "display_time": "8:15 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938573.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-02",
+          "time": "19:30",
+          "display_time": "7:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938483.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-03",
+          "time": "15:00",
+          "display_time": "3:00 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938501.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-04",
+          "time": "17:45",
+          "display_time": "5:45 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938526.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-06",
+          "time": "20:15",
+          "display_time": "8:15 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938573.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "garden",
+      "classic": false
+    },
+    {
+      "title": "Coup 53",
+      "year": 2020,
+      "director": "Taghi Amirani, UK",
+      "runtime": "119mins",
+      "country": "Iran",
+      "certificate": "15",
+      "poster": "https://images.savoysystems.co.uk/GCL/5684716.jpg",
+      "film_url": "https://www.thegardencinema.co.uk/film/coup-53-intro/",
+      "synopsis": "The screening on 31 July will be followed by a Q&A with director Taghi Amirani and Academy Award- winning editor Walter Murch, hosted by the Iranian Film Club's Zhaleh Bahraini. With Iran and the world once again on the brink, Coup 53 feels less like history and more like a warning. In 1953, a military coup led by British MI6 backed by the CIA overthrew Iran's democratically elected Prime Minister, Mohammad Mossadegh. His crime: nationalising the country's oil. The truth behind that original regime change for oil was buried for decades. Iranian director Taghi Amirani spent ten years uncovering",
+      "screenings": [
+        {
+          "venue": "garden",
+          "date": "2026-08-03",
+          "time": "15:15",
+          "display_time": "3:15 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5869942.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-04",
+          "time": "18:10",
+          "display_time": "6:10 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5869947.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-06",
+          "time": "15:00",
+          "display_time": "3:00 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5869952.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-03",
+          "time": "15:15",
+          "display_time": "3:15 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5869942.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-04",
+          "time": "18:10",
+          "display_time": "6:10 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5869947.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-06",
+          "time": "15:00",
+          "display_time": "3:00 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5869952.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "garden",
+      "classic": false
+    },
+    {
+      "title": "Blue Heron",
+      "year": 2025,
+      "director": "Sophy Romvari, Canada",
+      "runtime": "90mins",
+      "country": "Hungary",
+      "certificate": "12A",
+      "poster": "https://images.savoysystems.co.uk/GCL/5713631.jpg",
+      "film_url": "https://www.thegardencinema.co.uk/film/blue-heron/",
+      "synopsis": "Set on Vancouver Island in the late 1990s, Blue Heron follows eight-year-old Sasha and her Hungarian immigrant family as they attempt to build a new life, only to be destabilised by the increasingly dangerous behaviour of her older brother, Jeremy. Drawing on her own memories, filmmaker Sophy Romvari shapes a deeply personal portrait of childhood, family fractures, and the fragility of recollection. The Garden Cinema View: Sophy Romvari’s feature debut should strike a chord with anyone who grew up, or raised children, during the 1990s. She evokes such an authentic sense of family dynamics, and",
+      "screenings": [
+        {
+          "venue": "garden",
+          "date": "2026-08-03",
+          "time": "17:45",
+          "display_time": "5:45 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938499.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-03",
+          "time": "17:45",
+          "display_time": "5:45 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938499.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "garden",
+      "classic": false
+    },
+    {
       "title": "Lost City of Gold",
       "year": 2026,
       "director": "Ben Holgate",
@@ -21854,6 +21053,93 @@
       ],
       "venue": "garden",
       "classic": false
+    },
+    {
+      "title": "Nostalghia",
+      "year": 1983,
+      "director": "Andrei Tarkovsky, Soviet Union",
+      "runtime": "125mins",
+      "country": "Italy",
+      "certificate": "12A",
+      "poster": "https://images.savoysystems.co.uk/GCL/5734975.jpg",
+      "film_url": "https://www.thegardencinema.co.uk/film/nostalgia-2/",
+      "synopsis": "New digital restoration. A Russian poet, Andrei, conducts research in Italy on a composer from his homeland. There, he meets old Domenico, a man many consider insane. Domenico entrusts him with a highly original mission: to cross the Bagno Vignoni thermal bath with a lighted candle. Cast: Oleg Yankovskiy, Erland Josephson, Domiziana Giordano, Patrizia Terreno Please arrive promptly - we do not show adverts.",
+      "screenings": [
+        {
+          "venue": "garden",
+          "date": "2026-08-03",
+          "time": "19:45",
+          "display_time": "7:45 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938497.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-04",
+          "time": "14:45",
+          "display_time": "2:45 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938569.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-05",
+          "time": "17:25",
+          "display_time": "5:25 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938545.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-06",
+          "time": "19:45",
+          "display_time": "7:45 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938534.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-03",
+          "time": "19:45",
+          "display_time": "7:45 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938497.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-04",
+          "time": "14:45",
+          "display_time": "2:45 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938569.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-05",
+          "time": "17:25",
+          "display_time": "5:25 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938545.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-06",
+          "time": "19:45",
+          "display_time": "7:45 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938534.TcsSection_971",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "garden",
+      "classic": true
     },
     {
       "title": "The Last One for the Road",
@@ -21950,6 +21236,57 @@
           "time": "19:00",
           "display_time": "7:00 pm",
           "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5734539.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "garden",
+      "classic": true
+    },
+    {
+      "title": "Paprika – 20th anniversary",
+      "year": 2006,
+      "director": "Satoshi Kon",
+      "runtime": "90mins",
+      "country": "Japan",
+      "certificate": "15",
+      "poster": "https://images.savoysystems.co.uk/GCL/5839566.jpg",
+      "film_url": "https://www.thegardencinema.co.uk/film/paprika-20th-anniversary/",
+      "synopsis": "Satoshi's Kon's visionary and mind-melting anime Paprika returns for its 20th anniversary. Prepare to enter the realm of fantasy and imagination - where reality and dreams collide in a kaleidoscopic mindscape of sheer visual genius. The film centres on a revolutionary machine that allows scientists to enter and record a subject's dream - (the inspiration for Christopher Nolan's Inception ). After being stolen, a fearless detective and brilliant therapist join forces to recover the device - before it falls into the hands of a 'dream terrorist' in this gripping anime thriller from acclaimed dire",
+      "screenings": [
+        {
+          "venue": "garden",
+          "date": "2026-08-04",
+          "time": "20:40",
+          "display_time": "8:40 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938571.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-05",
+          "time": "15:45",
+          "display_time": "3:45 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938382.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-04",
+          "time": "20:40",
+          "display_time": "8:40 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938571.TcsSection_3060731",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-05",
+          "time": "15:45",
+          "display_time": "3:45 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5938382.TcsSection_3060731",
           "formats": [],
           "sold_out": false
         }
@@ -23490,7 +22827,7 @@
       "certificate": "18",
       "poster": "https://images.savoysystems.co.uk/GCL/5710668.jpg",
       "film_url": "https://www.thegardencinema.co.uk/film/autumn-moon/",
-      "synopsis": "The screening on 15 August will be introduced by Ching Wong, curator of Forever Foreigner: The Films of Clara Law film series and Programme Director of Hong Kong Festival UK . Autumn Moon , winner of the Golden Leopard at the 1992 Locarno Film Festival, is the fourth film in Clara Law’s loose 'emigration series,' following They Say the Moon is Fuller Here (1985), The Other Half and the Other Half (1988), and Farewell China (1990). Written by Law’s longtime collaborator and partner Eddie Fong, the film is a poetic meditation on identity, belonging, and the elusive idea of home, while reflecting",
+      "synopsis": "The screening on 15 August will be introduced by Ching Wong, co-curator of Forever Foreigner: The Films of Clara Law film series and Programme Director of Hong Kong Festival UK . Autumn Moon , winner of the Golden Leopard at the 1992 Locarno Film Festival, is the fourth film in Clara Law’s loose 'emigration series,' following They Say the Moon is Fuller Here (1985), The Other Half and the Other Half (1988), and Farewell China (1990). Written by Law’s longtime collaborator and partner Eddie Fong, the film is a poetic meditation on identity, belonging, and the elusive idea of home, while reflect",
       "screenings": [
         {
           "venue": "garden",
@@ -24250,6 +23587,39 @@
       "classic": true
     },
     {
+      "title": "Full Moon in New York",
+      "year": 1989,
+      "director": "Stanley Kwan",
+      "runtime": "88mins",
+      "country": "Hong Kong",
+      "certificate": "15",
+      "poster": "https://images.savoysystems.co.uk/GCL/5710584.jpg",
+      "film_url": "https://www.thegardencinema.co.uk/film/full-moon-in-new-york-qa/",
+      "synopsis": "*Please note that whilst tickets for the Q&A screening of Full Moon in New York are currently sold out, Stanley Kwan will attend an in-person masterclass on 26 August and free registration is available here . The screening on 25 August will be followed by an in-person Q&A with the director Stanley Kwan, moderated by Prof Victor Fan (KCL). Full Moon in New York is a unique work within Stanley Kwan’s filmography and remains his only feature set primarily in an overseas city. Set against the growing tide of Chinese migration in the late twentieth century, Kwan offers a poignant reflection on disp",
+      "screenings": [
+        {
+          "venue": "garden",
+          "date": "2026-08-25",
+          "time": "17:30",
+          "display_time": "5:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5711684.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-25",
+          "time": "17:30",
+          "display_time": "5:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5711684.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "garden",
+      "classic": true
+    },
+    {
       "title": "Swimming Pool",
       "year": 2003,
       "director": "François Ozon",
@@ -24854,6 +24224,39 @@
       ],
       "venue": "garden",
       "classic": false
+    },
+    {
+      "title": "Klute",
+      "year": 1971,
+      "director": "Alan J. Pakula",
+      "runtime": "114mins",
+      "country": "USA",
+      "certificate": "15",
+      "poster": "https://images.savoysystems.co.uk/GCL/5710824.jpg",
+      "film_url": "https://www.thegardencinema.co.uk/film/klute/",
+      "synopsis": "Klute was suggested by our member Colin Marsh, who writes: 'Alan J Pakula’s memorably atmospheric 1971 thriller starring Donald Sutherland and a stunning Best Actress Oscar performance from the wonderful Jane Fonda in the unforgettable role of Bree Daniels..' With her Oscar-winning turn in Klute , Jane Fonda reinvented herself as a new kind of movie star. Bringing nervy audacity and counterculture style to the role of Bree Daniels—a call girl and aspiring actor who becomes the focal point of a missing-person investigation when detective John Klute (Donald Sutherland) turns up at her door—Fonda",
+      "screenings": [
+        {
+          "venue": "garden",
+          "date": "2026-08-31",
+          "time": "15:30",
+          "display_time": "3:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5731154.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "garden",
+          "date": "2026-08-31",
+          "time": "15:30",
+          "display_time": "3:30 pm",
+          "booking_url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5731154.TcsSection_638",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "garden",
+      "classic": true
     },
     {
       "title": "That Most Important Thing: Love",
@@ -26047,15 +25450,6 @@
       "screenings": [
         {
           "venue": "bfi",
-          "date": "2026-08-01",
-          "time": "17:10",
-          "display_time": "5:10 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=D696B7B3-ABFE-4D27-9E53-E8A48EC6F001",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "bfi",
           "date": "2026-08-03",
           "time": "19:35",
           "display_time": "7:35 pm",
@@ -26135,15 +25529,6 @@
       "film_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=EA8B707B-5B10-44D5-A274-65A9D77317B5",
       "synopsis": null,
       "screenings": [
-        {
-          "venue": "bfi",
-          "date": "2026-08-01",
-          "time": "19:35",
-          "display_time": "7:35 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=EA8B707B-5B10-44D5-A274-65A9D77317B5",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "bfi",
           "date": "2026-08-22",
@@ -26722,30 +26107,6 @@
       "classic": true
     },
     {
-      "title": "Nirvanna the Band the Show the Movie",
-      "year": 2026,
-      "director": "Matt Johnson",
-      "runtime": "99mins",
-      "country": null,
-      "certificate": "15",
-      "poster": "https://image.tmdb.org/t/p/w500/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
-      "film_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=63056FD6-CAFC-4166-A5D8-2E83286BA485",
-      "synopsis": null,
-      "screenings": [
-        {
-          "venue": "bfi",
-          "date": "2026-08-01",
-          "time": "14:10",
-          "display_time": "2:10 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=63056FD6-CAFC-4166-A5D8-2E83286BA485",
-          "formats": [],
-          "sold_out": true
-        }
-      ],
-      "venue": "bfi",
-      "classic": false
-    },
-    {
       "title": "Pat Garrett & Billy the Kid",
       "year": 1973,
       "director": "Sam Peckinpah",
@@ -26911,7 +26272,7 @@
       "runtime": "101mins",
       "country": null,
       "certificate": "15",
-      "poster": "https://image.tmdb.org/t/p/w500/9hwBNpCArXXUuHNbZnVcYwgyMcM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/69IbDJQrb6WiVjIYEvMclAPInns.jpg",
       "film_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=399996D3-D37D-440E-BE23-432AC82B313D",
       "synopsis": null,
       "screenings": [
@@ -27121,15 +26482,6 @@
       "screenings": [
         {
           "venue": "bfi",
-          "date": "2026-08-01",
-          "time": "11:10",
-          "display_time": "11:10 am",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=7978E501-793C-4869-AC52-6A9976B0E1C0",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "bfi",
           "date": "2026-08-24",
           "time": "17:10",
           "display_time": "5:10 pm",
@@ -27246,7 +26598,7 @@
           "display_time": "5:15 pm",
           "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=FF95ADAD-B88A-41B0-9ACA-DE8CF2D713C2",
           "formats": [],
-          "sold_out": false
+          "sold_out": true
         },
         {
           "venue": "bfi",
@@ -27568,15 +26920,6 @@
       "screenings": [
         {
           "venue": "bfi",
-          "date": "2026-08-01",
-          "time": "17:00",
-          "display_time": "5:00 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=4647B7D9-AA61-4481-A1B5-244C79ECB154",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "bfi",
           "date": "2026-08-02",
           "time": "13:40",
           "display_time": "1:40 pm",
@@ -27642,7 +26985,7 @@
           "display_time": "11:30 am",
           "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=224A69F0-B71A-4273-AC58-4B8F25B1E987",
           "formats": [],
-          "sold_out": false
+          "sold_out": true
         }
       ],
       "venue": "bfi",
@@ -27782,42 +27125,6 @@
       "film_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=92B47DC8-6C36-4D24-A761-FB666968E5EB",
       "synopsis": null,
       "screenings": [
-        {
-          "venue": "bfi",
-          "date": "2026-08-01",
-          "time": "11:20",
-          "display_time": "11:20 am",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=92B47DC8-6C36-4D24-A761-FB666968E5EB",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "bfi",
-          "date": "2026-08-01",
-          "time": "14:00",
-          "display_time": "2:00 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=92B47DC8-6C36-4D24-A761-FB666968E5EB",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "bfi",
-          "date": "2026-08-01",
-          "time": "17:30",
-          "display_time": "5:30 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=92B47DC8-6C36-4D24-A761-FB666968E5EB",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "bfi",
-          "date": "2026-08-01",
-          "time": "19:45",
-          "display_time": "7:45 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=92B47DC8-6C36-4D24-A761-FB666968E5EB",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "bfi",
           "date": "2026-08-02",
@@ -28705,30 +28012,6 @@
       "classic": true
     },
     {
-      "title": "Letty Lynton",
-      "year": 1932,
-      "director": "Clarence Brown",
-      "runtime": "84mins",
-      "country": null,
-      "certificate": "PG",
-      "poster": "https://image.tmdb.org/t/p/w500/1Sx9mRtdzW3M61134h72NjWHiJ4.jpg",
-      "film_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=FBB0E9C1-DEDC-43C8-A3AC-7BA55F159252",
-      "synopsis": null,
-      "screenings": [
-        {
-          "venue": "bfi",
-          "date": "2026-08-01",
-          "time": "17:15",
-          "display_time": "5:15 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=FBB0E9C1-DEDC-43C8-A3AC-7BA55F159252",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "bfi",
-      "classic": true
-    },
-    {
       "title": "Effi o Blaenau",
       "year": 2026,
       "director": "Marc Evans",
@@ -28934,15 +28217,6 @@
           "time": "13:50",
           "display_time": "1:50 pm",
           "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=FFB28A8B-3701-4B79-9A69-5FBCF10A3B30",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "bfi",
-          "date": "2026-10-03",
-          "time": "17:10",
-          "display_time": "5:10 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=FFC3E404-577F-44B8-BE13-AA19272F5115",
           "formats": [],
           "sold_out": false
         }
@@ -30066,7 +29340,7 @@
           "display_time": "1:30 pm",
           "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=9FE1D061-E79A-4947-BF7D-B4C9E0DDFF32",
           "formats": [],
-          "sold_out": false
+          "sold_out": true
         }
       ],
       "venue": "bfi",
@@ -30389,15 +29663,6 @@
       "film_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=6BDE0011-3DDB-4CA5-8638-D63FB7AB552E",
       "synopsis": null,
       "screenings": [
-        {
-          "venue": "bfi",
-          "date": "2026-08-01",
-          "time": "13:45",
-          "display_time": "1:45 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=6BDE0011-3DDB-4CA5-8638-D63FB7AB552E",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "bfi",
           "date": "2026-08-11",
@@ -30752,15 +30017,6 @@
       "film_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=03BF045D-25D2-48E3-9D02-C008AE1B45F1",
       "synopsis": null,
       "screenings": [
-        {
-          "venue": "bfi",
-          "date": "2026-08-01",
-          "time": "19:40",
-          "display_time": "7:40 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=03BF045D-25D2-48E3-9D02-C008AE1B45F1",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "bfi",
           "date": "2026-08-16",
@@ -32431,39 +31687,6 @@
       "classic": true
     },
     {
-      "title": "Clever Girls",
-      "year": null,
-      "director": "Mario Amendola",
-      "runtime": "96mins",
-      "country": null,
-      "certificate": null,
-      "poster": null,
-      "film_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=11BFBEF7-5837-4518-B2FF-D8C0B405124D",
-      "synopsis": null,
-      "screenings": [
-        {
-          "venue": "bfi",
-          "date": "2026-08-01",
-          "time": "13:50",
-          "display_time": "1:50 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=11BFBEF7-5837-4518-B2FF-D8C0B405124D",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "bfi",
-          "date": "2026-08-10",
-          "time": "19:40",
-          "display_time": "7:40 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=04A46AA3-186A-4331-BF52-A052D6A77C34",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "bfi",
-      "classic": false
-    },
-    {
       "title": "The Unfaithful Wife",
       "year": 1969,
       "director": "Claude Chabrol",
@@ -33079,15 +32302,6 @@
       "screenings": [
         {
           "venue": "bfi",
-          "date": "2026-08-01",
-          "time": "19:50",
-          "display_time": "7:50 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=7849EE78-C562-4162-BF14-C316DE66FB3D",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "bfi",
           "date": "2026-08-05",
           "time": "17:05",
           "display_time": "5:05 pm",
@@ -33389,6 +32603,39 @@
           "time": "14:00",
           "display_time": "2:00 pm",
           "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=6AF87D7C-CFE2-43AA-B78A-848E250B16D0",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "bfi",
+          "date": "2026-10-03",
+          "time": "17:10",
+          "display_time": "5:10 pm",
+          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=FFC3E404-577F-44B8-BE13-AA19272F5115",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "bfi",
+      "classic": false
+    },
+    {
+      "title": "Clever Girls + intro by writer Richard Dyer",
+      "year": null,
+      "director": "Mario Amendola",
+      "runtime": "96mins",
+      "country": null,
+      "certificate": null,
+      "poster": null,
+      "film_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=04A46AA3-186A-4331-BF52-A052D6A77C34",
+      "synopsis": null,
+      "screenings": [
+        {
+          "venue": "bfi",
+          "date": "2026-08-10",
+          "time": "19:40",
+          "display_time": "7:40 pm",
+          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=04A46AA3-186A-4331-BF52-A052D6A77C34",
           "formats": [],
           "sold_out": false
         }
