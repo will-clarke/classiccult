@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-11-03T13:55:56.170234+00:00",
+  "generated_at": "2026-11-04T14:08:58.349558+00:00",
   "classic_before_year": 2006,
   "venues": [
     {
       "id": "pcc",
       "name": "Prince Charles Cinema",
       "url": "https://princecharlescinema.com/whats-on/",
-      "films": 296,
-      "screenings": 671
+      "films": 294,
+      "screenings": 663
     },
     {
       "id": "castle",
       "name": "The Castle Cinema",
       "url": "https://thecastlecinema.com/listings/",
       "films": 11,
-      "screenings": 105
+      "screenings": 96
     },
     {
       "id": "genesis",
       "name": "Genesis Cinema",
       "url": "https://www.genesiscinema.co.uk/whatson",
-      "films": 43,
-      "screenings": 187
+      "films": 42,
+      "screenings": 174
     },
     {
       "id": "barbican",
       "name": "Barbican",
       "url": "https://www.barbican.org.uk/whats-on/cinema",
-      "films": 48,
-      "screenings": 116
+      "films": 49,
+      "screenings": 118
     },
     {
       "id": "ica",
       "name": "ICA",
       "url": "https://www.ica.art/films",
       "films": 21,
-      "screenings": 76
+      "screenings": 74
     },
     {
       "id": "phoenix",
       "name": "Phoenix Cinema",
       "url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn",
-      "films": 31,
-      "screenings": 85
+      "films": 35,
+      "screenings": 84
     },
     {
       "id": "rio",
       "name": "Rio Cinema",
       "url": "https://riocinema.org.uk/Rio.dll/WhatsOn",
       "films": 42,
-      "screenings": 93
+      "screenings": 89
     },
     {
       "id": "garden",
@@ -62,58 +62,67 @@
       "id": "bfi",
       "name": "BFI Southbank",
       "url": "https://whatson.bfi.org.uk/",
-      "films": 154,
-      "screenings": 458
+      "films": 153,
+      "screenings": 451
     }
   ],
   "films": [
     {
-      "title": "Heat",
-      "year": 1995,
-      "director": "Michael Mann",
-      "runtime": "171mins",
+      "title": "La La Land",
+      "year": 2016,
+      "director": "Damien Chazelle",
+      "runtime": "128mins",
       "country": "USA",
-      "certificate": "15",
-      "poster": "https://posters-uk.s3.eu-west-2.amazonaws.com/PRILON/3182341.jpg",
-      "film_url": "https://princecharlescinema.com/film/3182341/heat",
-      "synopsis": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a verbal clue at their latest heist. Original Cut from a 35mm print.",
+      "certificate": "12A",
+      "poster": "https://posters-uk.s3.eu-west-2.amazonaws.com/PRILON/1787253.jpg",
+      "film_url": "https://princecharlescinema.com/film/1787253/la-la-land",
+      "synopsis": "Sebastian (Ryan Gosling) and Mia (Emma Stone) are drawn together by their common desire to do what they love. But as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
       "screenings": [
         {
           "venue": "pcc",
-          "date": "2026-11-03",
-          "time": "14:25",
-          "display_time": "2:25 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628223",
-          "formats": [
-            "35mm"
-          ],
+          "date": "2026-11-04",
+          "time": "15:05",
+          "display_time": "3:05 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628229",
+          "formats": [],
           "sold_out": false
         },
         {
           "venue": "pcc",
-          "date": "2026-12-26",
-          "time": "19:45",
-          "display_time": "7:45 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628531",
-          "formats": [
-            "35mm"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2027-01-12",
-          "time": "20:10",
-          "display_time": "8:10 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628685",
-          "formats": [
-            "35mm"
-          ],
+          "date": "2026-11-20",
+          "time": "20:30",
+          "display_time": "8:30 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627918",
+          "formats": [],
           "sold_out": false
         }
       ],
       "venue": "pcc",
-      "classic": true
+      "classic": false
+    },
+    {
+      "title": "Dogtooth [Kynodontas]",
+      "year": 2009,
+      "director": "Yorgos Lanthimos",
+      "runtime": "97mins",
+      "country": "Greece",
+      "certificate": "18",
+      "poster": "https://cdn.taposapp.com/poster/600x900/_M55iuysnnIkqXibCYGtFEj2yruKdzooGGG0rXRymsI.jpg",
+      "film_url": "https://princecharlescinema.com/film/10519845/dogtooth-kynodontas",
+      "synopsis": "Newly restored in 4K, DOGTOOTH follows a controlling, manipulative father who locks his three adult children in a state of perpetual childhood by keeping them prisoner within the sprawling family compound.",
+      "screenings": [
+        {
+          "venue": "pcc",
+          "date": "2026-11-04",
+          "time": "15:25",
+          "display_time": "3:25 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628230",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "pcc",
+      "classic": false
     },
     {
       "title": "Ken Russell's The Devils: The Director's Cut",
@@ -126,48 +135,6 @@
       "film_url": "https://princecharlescinema.com/film/31617501/ken-russells-the-devils-the-directors-cut",
       "synopsis": "Censored for over half a century, Ken Russell’s film returns in a landmark director’s cut reconstruction that reveals the full power of his original vision. Inspired by the true story of 17th-century priest Urbain Grandier, accused of bewitching a convent of nuns, The Devils lays bare the collusion of church and state through a searing vision of religious persecution, collective hysteria and institutional corruption. The restoration many believed would never happen reaffirms Russell’s incendiary masterpiece as among the most overwhelming and uncompromising achievements in British cinema. Assem",
       "screenings": [
-        {
-          "venue": "pcc",
-          "date": "2026-11-03",
-          "time": "15:15",
-          "display_time": "3:15 pm",
-          "booking_url": null,
-          "formats": [
-            "35mm"
-          ],
-          "sold_out": true
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-11-03",
-          "time": "20:30",
-          "display_time": "8:30 pm",
-          "booking_url": null,
-          "formats": [
-            "35mm"
-          ],
-          "sold_out": true
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-11-03",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": null,
-          "formats": [],
-          "sold_out": true
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-11-04",
-          "time": "12:15",
-          "display_time": "12:15 pm",
-          "booking_url": null,
-          "formats": [
-            "35mm"
-          ],
-          "sold_out": true
-        },
         {
           "venue": "pcc",
           "date": "2026-11-04",
@@ -328,11 +295,11 @@
           "date": "2026-11-12",
           "time": "18:00",
           "display_time": "6:00 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628268",
+          "booking_url": null,
           "formats": [
             "4K"
           ],
-          "sold_out": false
+          "sold_out": true
         },
         {
           "venue": "pcc",
@@ -512,203 +479,6 @@
       "classic": true
     },
     {
-      "title": "Black Narcissus",
-      "year": 1947,
-      "director": "Michael Powell|Emeric Pressburger",
-      "runtime": "101mins",
-      "country": "UK",
-      "certificate": "U",
-      "poster": "https://cdn.taposapp.com/poster/600x900/Qf6iptYxS29QRlpeeHschy6jLfp2CJJjwxdneLnICQA.jpg",
-      "film_url": "https://princecharlescinema.com/film/189195/black-narcissus",
-      "synopsis": "This explosive work about the conflict between the spirit and the flesh is the epitome of the sensuous style of Michael Powell and Emeric Pressburger. A group of nuns—played by some of Britain's finest actresses, including Deborah Kerr, Kathleen Byron, and Flora Robson—struggle to establish a convent in the Himalayas, while isolation, extreme weather, altitude, and culture clashes all conspire to drive the well-intentioned missionaries mad. A darkly grand film that won Oscars for Alfred Junge's art direction and Jack Cardiff's cinematography, Black Narcissus is one of the greatest achievements",
-      "screenings": [
-        {
-          "venue": "pcc",
-          "date": "2026-11-03",
-          "time": "18:00",
-          "display_time": "6:00 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628224",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "pcc",
-      "classic": true
-    },
-    {
-      "title": "The Zone of Interest",
-      "year": 2023,
-      "director": "Jonathan Glazer",
-      "runtime": "105mins",
-      "country": "Poland, UK, USA",
-      "certificate": "12A",
-      "poster": "https://cdn.taposapp.com/poster/600x900/t9ebSPa_oVjKqEHYSQC13FpsIN6tD1e2LarGlUyKl0Y.jpg",
-      "film_url": "https://princecharlescinema.com/film/30030716/the-zone-of-interest",
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "screenings": [
-        {
-          "venue": "pcc",
-          "date": "2026-11-03",
-          "time": "18:15",
-          "display_time": "6:15 pm",
-          "booking_url": null,
-          "formats": [],
-          "sold_out": true
-        }
-      ],
-      "venue": "pcc",
-      "classic": false
-    },
-    {
-      "title": "Amelie - 25th Anniversary",
-      "year": 2001,
-      "director": "Jean-Pierre Jeunet",
-      "runtime": "123mins",
-      "country": "France",
-      "certificate": "15",
-      "poster": "https://posters-uk.s3.eu-west-2.amazonaws.com/PRILON/1870384.jpg",
-      "film_url": "https://princecharlescinema.com/film/1870384/amelie-25th-anniversary",
-      "synopsis": "23-year-old Amélie is lonely. After an isolating childhood, she moves to Paris and becomes a waitress at the Café des Deux Moulins, a bar restaurant filled with a colourful cast of diners and employees. One night, Amélie happens across a box of treasures hidden in her apartment, left by a little boy in the Fifties, that changes the course of her life. Henceforth, she dedicates herself to giving back to her community, tracking down the owner of these keepsakes, consoling a widowed neighbour and befriending a reclusive artist. When completing these good deeds, she crosses paths with Nino, a phot",
-      "screenings": [
-        {
-          "venue": "pcc",
-          "date": "2026-11-04",
-          "time": "12:35",
-          "display_time": "12:35 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628226",
-          "formats": [
-            "35mm"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-11-13",
-          "time": "15:00",
-          "display_time": "3:00 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628346",
-          "formats": [
-            "35mm"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-11-27",
-          "time": "15:00",
-          "display_time": "3:00 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627863",
-          "formats": [
-            "35mm"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-12-08",
-          "time": "12:30",
-          "display_time": "12:30 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628060",
-          "formats": [
-            "35mm"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-12-26",
-          "time": "17:15",
-          "display_time": "5:15 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628568",
-          "formats": [
-            "35mm"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2027-01-13",
-          "time": "15:20",
-          "display_time": "3:20 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628757",
-          "formats": [
-            "35mm"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2027-01-24",
-          "time": "13:45",
-          "display_time": "1:45 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628851",
-          "formats": [
-            "35mm"
-          ],
-          "sold_out": false
-        }
-      ],
-      "venue": "pcc",
-      "classic": true
-    },
-    {
-      "title": "La La Land",
-      "year": 2016,
-      "director": "Damien Chazelle",
-      "runtime": "128mins",
-      "country": "USA",
-      "certificate": "12A",
-      "poster": "https://posters-uk.s3.eu-west-2.amazonaws.com/PRILON/1787253.jpg",
-      "film_url": "https://princecharlescinema.com/film/1787253/la-la-land",
-      "synopsis": "Sebastian (Ryan Gosling) and Mia (Emma Stone) are drawn together by their common desire to do what they love. But as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
-      "screenings": [
-        {
-          "venue": "pcc",
-          "date": "2026-11-04",
-          "time": "15:05",
-          "display_time": "3:05 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628229",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "pcc",
-          "date": "2026-11-20",
-          "time": "20:30",
-          "display_time": "8:30 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627918",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "pcc",
-      "classic": false
-    },
-    {
-      "title": "Dogtooth [Kynodontas]",
-      "year": 2009,
-      "director": "Yorgos Lanthimos",
-      "runtime": "97mins",
-      "country": "Greece",
-      "certificate": "18",
-      "poster": "https://cdn.taposapp.com/poster/600x900/_M55iuysnnIkqXibCYGtFEj2yruKdzooGGG0rXRymsI.jpg",
-      "film_url": "https://princecharlescinema.com/film/10519845/dogtooth-kynodontas",
-      "synopsis": "Newly restored in 4K, DOGTOOTH follows a controlling, manipulative father who locks his three adult children in a state of perpetual childhood by keeping them prisoner within the sprawling family compound.",
-      "screenings": [
-        {
-          "venue": "pcc",
-          "date": "2026-11-04",
-          "time": "15:25",
-          "display_time": "3:25 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628230",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "pcc",
-      "classic": false
-    },
-    {
       "title": "Fantastic Planet",
       "year": 1973,
       "director": "René Laloux",
@@ -748,9 +518,9 @@
           "date": "2026-11-04",
           "time": "20:25",
           "display_time": "8:25 pm",
-          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628231",
+          "booking_url": null,
           "formats": [],
-          "sold_out": false
+          "sold_out": true
         },
         {
           "venue": "pcc",
@@ -1122,9 +892,9 @@
           "date": "2026-11-06",
           "time": "12:00",
           "display_time": "12:00 pm",
-          "booking_url": null,
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627893",
           "formats": [],
-          "sold_out": true
+          "sold_out": false
         },
         {
           "venue": "pcc",
@@ -2470,6 +2240,87 @@
           "time": "20:30",
           "display_time": "8:30 pm",
           "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628692",
+          "formats": [
+            "35mm"
+          ],
+          "sold_out": false
+        }
+      ],
+      "venue": "pcc",
+      "classic": true
+    },
+    {
+      "title": "Amelie - 25th Anniversary",
+      "year": 2001,
+      "director": "Jean-Pierre Jeunet",
+      "runtime": "123mins",
+      "country": "France",
+      "certificate": "15",
+      "poster": "https://posters-uk.s3.eu-west-2.amazonaws.com/PRILON/1870384.jpg",
+      "film_url": "https://princecharlescinema.com/film/1870384/amelie-25th-anniversary",
+      "synopsis": "23-year-old Amélie is lonely. After an isolating childhood, she moves to Paris and becomes a waitress at the Café des Deux Moulins, a bar restaurant filled with a colourful cast of diners and employees. One night, Amélie happens across a box of treasures hidden in her apartment, left by a little boy in the Fifties, that changes the course of her life. Henceforth, she dedicates herself to giving back to her community, tracking down the owner of these keepsakes, consoling a widowed neighbour and befriending a reclusive artist. When completing these good deeds, she crosses paths with Nino, a phot",
+      "screenings": [
+        {
+          "venue": "pcc",
+          "date": "2026-11-13",
+          "time": "15:00",
+          "display_time": "3:00 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628346",
+          "formats": [
+            "35mm"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-11-27",
+          "time": "15:00",
+          "display_time": "3:00 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627863",
+          "formats": [
+            "35mm"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-12-08",
+          "time": "12:30",
+          "display_time": "12:30 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628060",
+          "formats": [
+            "35mm"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2026-12-26",
+          "time": "17:15",
+          "display_time": "5:15 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628568",
+          "formats": [
+            "35mm"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2027-01-13",
+          "time": "15:20",
+          "display_time": "3:20 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628757",
+          "formats": [
+            "35mm"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2027-01-24",
+          "time": "13:45",
+          "display_time": "1:45 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628851",
           "formats": [
             "35mm"
           ],
@@ -4509,7 +4360,9 @@
           "time": "18:00",
           "display_time": "6:00 pm",
           "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628407",
-          "formats": [],
+          "formats": [
+            "4K"
+          ],
           "sold_out": false
         },
         {
@@ -4518,7 +4371,9 @@
           "time": "17:50",
           "display_time": "5:50 pm",
           "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628846",
-          "formats": [],
+          "formats": [
+            "4K"
+          ],
           "sold_out": false
         }
       ],
@@ -7914,6 +7769,43 @@
       "classic": false
     },
     {
+      "title": "Heat",
+      "year": 1995,
+      "director": "Michael Mann",
+      "runtime": "171mins",
+      "country": "USA",
+      "certificate": "15",
+      "poster": "https://posters-uk.s3.eu-west-2.amazonaws.com/PRILON/3182341.jpg",
+      "film_url": "https://princecharlescinema.com/film/3182341/heat",
+      "synopsis": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a verbal clue at their latest heist. Original Cut from a 35mm print.",
+      "screenings": [
+        {
+          "venue": "pcc",
+          "date": "2026-12-26",
+          "time": "19:45",
+          "display_time": "7:45 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628531",
+          "formats": [
+            "35mm"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "pcc",
+          "date": "2027-01-12",
+          "time": "20:10",
+          "display_time": "8:10 pm",
+          "booking_url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628685",
+          "formats": [
+            "35mm"
+          ],
+          "sold_out": false
+        }
+      ],
+      "venue": "pcc",
+      "classic": true
+    },
+    {
       "title": "Wings of Desire [Der Himmel über Berlin]",
       "year": 1987,
       "director": "Wim Wenders",
@@ -8753,7 +8645,7 @@
       "runtime": "119mins",
       "country": "Japan",
       "certificate": "U",
-      "poster": "https://cdn.taposapp.com/poster/600x900/CNIy6YNUtQ2hSEm4MmOkHbIrhdOUodhvvfEhOU_9YqE.jpg",
+      "poster": "https://cdn.taposapp.com/poster/600x900/MHEOczonKPk4lIRTer4kW2VfF2S7TD_k9muTVWm3wgE.jpg",
       "film_url": "https://princecharlescinema.com/film/3450/howls-moving-castle",
       "synopsis": "From the legendary Studio Ghibli, creators of Spirited Away, and acclaimed director Hayao Miyazaki, comes the Academy Award®-nominated fantasy adventure for the whole family. Sophie, a quiet girl working in a hat shop, finds her life thrown into turmoil when she is literally swept off her feet by a handsome but mysterious wizard named Howl. The vain and vengeful Witch of the Waste, jealous of their friendship, puts a curse on Sophie and turns her into a 90-year-old woman. On a quest to break the spell, Sophie climbs aboard Howl’s magnificent moving castle and into a new life of wonder and adve",
       "screenings": [
@@ -10988,14 +10880,14 @@
       "classic": true
     },
     {
-      "title": "A Knight's Tale - 25th Anniversary",
+      "title": "A Knight's Tale",
       "year": 2001,
       "director": "Brian Helgeland",
       "runtime": "122mins",
       "country": "USA",
       "certificate": "PG",
       "poster": "https://posters-uk.s3.eu-west-2.amazonaws.com/PRILON/1578534.jpg",
-      "film_url": "https://princecharlescinema.com/film/1578534/a-knights-tale-25th-anniversary",
+      "film_url": "https://princecharlescinema.com/film/1578534/a-knights-tale",
       "synopsis": "After his master dies, a peasant squire, fueled by his desire for food and glory, creates a new identity for himself as a knight.",
       "screenings": [
         {
@@ -11253,15 +11145,6 @@
       "screenings": [
         {
           "venue": "castle",
-          "date": "2026-11-03",
-          "time": "16:00",
-          "display_time": "4:00 pm",
-          "booking_url": "https://thecastlecinema.com/bookings/18257/",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "castle",
           "date": "2026-11-04",
           "time": "14:00",
           "display_time": "2:00 pm",
@@ -11311,24 +11194,6 @@
       "film_url": "https://thecastlecinema.com/programme/114845/i-love-boosters/",
       "synopsis": null,
       "screenings": [
-        {
-          "venue": "castle",
-          "date": "2026-11-03",
-          "time": "13:45",
-          "display_time": "1:45 pm",
-          "booking_url": "https://thecastlecinema.com/bookings/18256/",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "castle",
-          "date": "2026-11-03",
-          "time": "18:15",
-          "display_time": "6:15 pm",
-          "booking_url": "https://thecastlecinema.com/bookings/18260/",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "castle",
           "date": "2026-11-04",
@@ -11565,24 +11430,6 @@
       "screenings": [
         {
           "venue": "castle",
-          "date": "2026-11-03",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": "https://thecastlecinema.com/bookings/18261/",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "castle",
-          "date": "2026-11-04",
-          "time": "11:15",
-          "display_time": "11:15 am",
-          "booking_url": "https://thecastlecinema.com/bookings/18263/",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "castle",
           "date": "2026-11-04",
           "time": "16:00",
           "display_time": "4:00 pm",
@@ -11728,24 +11575,6 @@
       "film_url": "https://thecastlecinema.com/programme/114209/primetime/",
       "synopsis": null,
       "screenings": [
-        {
-          "venue": "castle",
-          "date": "2026-11-03",
-          "time": "16:10",
-          "display_time": "4:10 pm",
-          "booking_url": "https://thecastlecinema.com/bookings/18258/",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "castle",
-          "date": "2026-11-03",
-          "time": "20:30",
-          "display_time": "8:30 pm",
-          "booking_url": "https://thecastlecinema.com/bookings/18259/",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "castle",
           "date": "2026-11-04",
@@ -12108,24 +11937,6 @@
       "screenings": [
         {
           "venue": "castle",
-          "date": "2026-11-03",
-          "time": "13:15",
-          "display_time": "1:15 pm",
-          "booking_url": "https://thecastlecinema.com/bookings/18255/",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "castle",
-          "date": "2026-11-04",
-          "time": "11:00",
-          "display_time": "11:00 am",
-          "booking_url": "https://thecastlecinema.com/bookings/18262/",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "castle",
           "date": "2026-11-05",
           "time": "13:30",
           "display_time": "1:30 pm",
@@ -12351,25 +12162,60 @@
       "classic": false
     },
     {
-      "title": "Fatherland",
+      "title": "City of Masks",
       "year": null,
       "director": null,
-      "runtime": "82mins",
+      "runtime": "93mins",
       "country": null,
-      "certificate": "12A",
-      "poster": "https://www.genesiscinema.co.uk/customFilmImages/115432_0.jpg",
-      "film_url": "https://www.genesiscinema.co.uk/event/115432",
-      "synopsis": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar. More Info",
+      "certificate": "15",
+      "poster": "https://www.genesiscinema.co.uk/customFilmImages/115428_0.jpg",
+      "film_url": "https://www.genesiscinema.co.uk/event/115428",
+      "synopsis": "Ambition, obsession, and lost love collide in a haunted West End theatre where a disfigured composer, a rising star, and a jealous rival fight for control of a mysterious musical-and the masked legacy that threatens to destroy them all. Inspired by Gaston Le Roux's The Phantom of the Opera. More Info",
       "screenings": [
         {
           "venue": "genesis",
-          "date": "2026-11-03",
-          "time": "18:30",
-          "display_time": "6:30 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14106",
+          "date": "2026-11-04",
+          "time": "18:15",
+          "display_time": "6:15 pm",
+          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=13788",
           "formats": [
             "Studio Screening"
           ],
+          "sold_out": false
+        },
+        {
+          "venue": "genesis",
+          "date": "2026-11-06",
+          "time": "15:45",
+          "display_time": "3:45 pm",
+          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14343",
+          "formats": [
+            "Studio Screening"
+          ],
+          "sold_out": false
+        }
+      ],
+      "venue": "genesis",
+      "classic": false
+    },
+    {
+      "title": "Bar Trash: ROBOT HOLOCAUST (1987)",
+      "year": null,
+      "director": null,
+      "runtime": "150mins",
+      "country": null,
+      "certificate": "18",
+      "poster": "https://www.genesiscinema.co.uk/customFilmImages/106837_0.jpg",
+      "film_url": "https://www.genesiscinema.co.uk/event/106837",
+      "synopsis": "\"IT'S MACHINE VS MAN IN THE ULTIMATE BATTLE FOR THE FUTURE!\" In a post-apocalyptic New York, a nomad and his robot battle evil forces to liberate humanity from enslavement. BAR TRASH continues our 14th sensational season  TRASH PLANET 3: APOCALYPSE!  with the return of former gay porn director Tim Kincaid and his ROBOT HOLOCAUST (1987). Tim Kincaid developed his filmmaking career as a pioneering director of gay hardcore films, working under the pseudonym Joe Gage to co-create the Working Man Trilogy (1976-1979), setting the benchmark for adult entertainment featuring universally rugged, ",
+      "screenings": [
+        {
+          "venue": "genesis",
+          "date": "2026-11-04",
+          "time": "20:45",
+          "display_time": "8:45 pm",
+          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14221",
+          "formats": [],
           "sold_out": false
         }
       ],
@@ -12387,17 +12233,6 @@
       "film_url": "https://www.genesiscinema.co.uk/event/115437",
       "synopsis": "Tells the true story of Ramla Ali, who fled Somalia with her family as a young girl, seeking asylum in London from the civil war. As a teenager, she pursued her love of boxing, but did so secretly as she knew her family would disapprove. Ali became the first boxer, male or female, to represent Somalia at the 2020 Olympic Games and made history after winning the first ever professional female boxing match in Saudi Arabia. More Info",
       "screenings": [
-        {
-          "venue": "genesis",
-          "date": "2026-11-03",
-          "time": "15:40",
-          "display_time": "3:40 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14211",
-          "formats": [
-            "Studio Screening"
-          ],
-          "sold_out": false
-        },
         {
           "venue": "genesis",
           "date": "2026-11-04",
@@ -12435,35 +12270,6 @@
       "film_url": "https://www.genesiscinema.co.uk/event/114845",
       "synopsis": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price  what they call 'fashion-forward philanthropy'. More Info",
       "screenings": [
-        {
-          "venue": "genesis",
-          "date": "2026-11-03",
-          "time": "15:30",
-          "display_time": "3:30 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14107",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-11-03",
-          "time": "18:10",
-          "display_time": "6:10 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14101",
-          "formats": [
-            "Subtitled"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-11-03",
-          "time": "20:50",
-          "display_time": "8:50 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14102",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "genesis",
           "date": "2026-11-04",
@@ -12518,32 +12324,6 @@
       "classic": false
     },
     {
-      "title": "NAZA",
-      "year": null,
-      "director": null,
-      "runtime": "80mins",
-      "country": null,
-      "certificate": "15",
-      "poster": "https://www.genesiscinema.co.uk/customFilmImages/115766_0.jpg",
-      "film_url": "https://www.genesiscinema.co.uk/event/115766",
-      "synopsis": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them. More Info",
-      "screenings": [
-        {
-          "venue": "genesis",
-          "date": "2026-11-03",
-          "time": "20:40",
-          "display_time": "8:40 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14196",
-          "formats": [
-            "Studio Screening"
-          ],
-          "sold_out": false
-        }
-      ],
-      "venue": "genesis",
-      "classic": false
-    },
-    {
       "title": "Primetime",
       "year": null,
       "director": null,
@@ -12554,35 +12334,6 @@
       "film_url": "https://www.genesiscinema.co.uk/event/114209",
       "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice. More Info",
       "screenings": [
-        {
-          "venue": "genesis",
-          "date": "2026-11-03",
-          "time": "15:45",
-          "display_time": "3:45 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14099",
-          "formats": [
-            "Subtitled"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-11-03",
-          "time": "18:20",
-          "display_time": "6:20 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14097",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-11-03",
-          "time": "21:00",
-          "display_time": "9:00 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14098",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "genesis",
           "date": "2026-11-04",
@@ -12869,26 +12620,6 @@
       "screenings": [
         {
           "venue": "genesis",
-          "date": "2026-11-03",
-          "time": "15:50",
-          "display_time": "3:50 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14109",
-          "formats": [
-            "Studio Screening"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-11-03",
-          "time": "21:00",
-          "display_time": "9:00 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14103",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
           "date": "2026-11-04",
           "time": "20:35",
           "display_time": "8:35 pm",
@@ -12944,37 +12675,6 @@
       "film_url": "https://www.genesiscinema.co.uk/event/113301",
       "synopsis": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos. More Info",
       "screenings": [
-        {
-          "venue": "genesis",
-          "date": "2026-11-03",
-          "time": "15:35",
-          "display_time": "3:35 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14108",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-11-03",
-          "time": "18:20",
-          "display_time": "6:20 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14104",
-          "formats": [
-            "Studio Screening"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-11-03",
-          "time": "20:50",
-          "display_time": "8:50 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14105",
-          "formats": [
-            "Studio Screening"
-          ],
-          "sold_out": false
-        },
         {
           "venue": "genesis",
           "date": "2026-11-04",
@@ -13039,129 +12739,6 @@
           "formats": [
             "Studio Screening"
           ],
-          "sold_out": false
-        }
-      ],
-      "venue": "genesis",
-      "classic": false
-    },
-    {
-      "title": "Wildwood",
-      "year": null,
-      "director": null,
-      "runtime": "130mins",
-      "country": null,
-      "certificate": "12A",
-      "poster": "https://www.genesiscinema.co.uk/customFilmImages/113504_0.jpg",
-      "film_url": "https://www.genesiscinema.co.uk/event/113504",
-      "synopsis": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into the Impassable Wilderness - an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg, Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover strength and belief she never knew she possessed. If she hopes to save her brother and protect Wildwoods fragile future,",
-      "screenings": [
-        {
-          "venue": "genesis",
-          "date": "2026-11-03",
-          "time": "18:05",
-          "display_time": "6:05 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14100",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-11-04",
-          "time": "18:00",
-          "display_time": "6:00 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14096",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-11-07",
-          "time": "12:15",
-          "display_time": "12:15 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14249",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-11-08",
-          "time": "12:20",
-          "display_time": "12:20 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14260",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-11-08",
-          "time": "15:05",
-          "display_time": "3:05 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14263",
-          "formats": [
-            "Studio Screening"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-11-10",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14301",
-          "formats": [
-            "Studio Screening"
-          ],
-          "sold_out": false
-        }
-      ],
-      "venue": "genesis",
-      "classic": false
-    },
-    {
-      "title": "City of Masks",
-      "year": null,
-      "director": null,
-      "runtime": "93mins",
-      "country": null,
-      "certificate": "15",
-      "poster": "https://www.genesiscinema.co.uk/customFilmImages/115428_0.jpg",
-      "film_url": "https://www.genesiscinema.co.uk/event/115428",
-      "synopsis": "Ambition, obsession, and lost love collide in a haunted West End theatre where a disfigured composer, a rising star, and a jealous rival fight for control of a mysterious musical-and the masked legacy that threatens to destroy them all. Inspired by Gaston Le Roux's The Phantom of the Opera. More Info",
-      "screenings": [
-        {
-          "venue": "genesis",
-          "date": "2026-11-04",
-          "time": "18:15",
-          "display_time": "6:15 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=13788",
-          "formats": [
-            "Studio Screening"
-          ],
-          "sold_out": false
-        }
-      ],
-      "venue": "genesis",
-      "classic": false
-    },
-    {
-      "title": "Bar Trash: ROBOT HOLOCAUST (1987)",
-      "year": null,
-      "director": null,
-      "runtime": "150mins",
-      "country": null,
-      "certificate": "18",
-      "poster": "https://www.genesiscinema.co.uk/customFilmImages/106837_0.jpg",
-      "film_url": "https://www.genesiscinema.co.uk/event/106837",
-      "synopsis": "\"IT'S MACHINE VS MAN IN THE ULTIMATE BATTLE FOR THE FUTURE!\" In a post-apocalyptic New York, a nomad and his robot battle evil forces to liberate humanity from enslavement. BAR TRASH continues our 14th sensational season  TRASH PLANET 3: APOCALYPSE!  with the return of former gay porn director Tim Kincaid and his ROBOT HOLOCAUST (1987). Tim Kincaid developed his filmmaking career as a pioneering director of gay hardcore films, working under the pseudonym Joe Gage to co-create the Working Man Trilogy (1976-1979), setting the benchmark for adult entertainment featuring universally rugged, ",
-      "screenings": [
-        {
-          "venue": "genesis",
-          "date": "2026-11-04",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14221",
-          "formats": [],
           "sold_out": false
         }
       ],
@@ -13412,18 +12989,6 @@
         {
           "venue": "genesis",
           "date": "2026-11-12",
-          "time": "14:30",
-          "display_time": "2:30 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14337",
-          "formats": [
-            "Parent And Baby",
-            "Studio Screening"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "genesis",
-          "date": "2026-11-12",
           "time": "18:05",
           "display_time": "6:05 pm",
           "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14327",
@@ -13439,6 +13004,70 @@
           "display_time": "9:00 pm",
           "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14336",
           "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "genesis",
+      "classic": false
+    },
+    {
+      "title": "Wildwood",
+      "year": null,
+      "director": null,
+      "runtime": "130mins",
+      "country": null,
+      "certificate": "12A",
+      "poster": "https://www.genesiscinema.co.uk/customFilmImages/113504_0.jpg",
+      "film_url": "https://www.genesiscinema.co.uk/event/113504",
+      "synopsis": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into the Impassable Wilderness - an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg, Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover strength and belief she never knew she possessed. If she hopes to save her brother and protect Wildwoods fragile future,",
+      "screenings": [
+        {
+          "venue": "genesis",
+          "date": "2026-11-04",
+          "time": "18:00",
+          "display_time": "6:00 pm",
+          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14096",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "genesis",
+          "date": "2026-11-07",
+          "time": "12:15",
+          "display_time": "12:15 pm",
+          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14249",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "genesis",
+          "date": "2026-11-08",
+          "time": "12:20",
+          "display_time": "12:20 pm",
+          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14260",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "genesis",
+          "date": "2026-11-08",
+          "time": "15:05",
+          "display_time": "3:05 pm",
+          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14263",
+          "formats": [
+            "Studio Screening"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "genesis",
+          "date": "2026-11-10",
+          "time": "20:45",
+          "display_time": "8:45 pm",
+          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14301",
+          "formats": [
+            "Studio Screening"
+          ],
           "sold_out": false
         }
       ],
@@ -13690,7 +13319,7 @@
       "certificate": null,
       "poster": "https://www.genesiscinema.co.uk/customFilmImages/115427_0.jpg",
       "film_url": "https://www.genesiscinema.co.uk/event/115427",
-      "synopsis": "A filmmaker gets more than he bargained for when his girlfriend is part of starting one of the most polarising protest movements in recent memory: Just Stop Oil. As irreversible climate tipping points loom and their controversial protests face mounting repression, four activistsIndigo, Mark, Phoebe, and Janegrapple with the personal cost of action against the existential stakes of inaction. How far will ordinary people go to stop oil drilling and how far will the authorities go to stop them? Followed by an in-person Q&A host by Steven Methven (Novara Media) with director, Rich Felgate, Roger",
+      "synopsis": "A filmmaker gets more than he bargained for when his girlfriend is part of starting one of the most polarising protest movements in recent memory: Just Stop Oil. As irreversible climate tipping points loom and their controversial protests face mounting repression, four activistsIndigo, Mark, Phoebe, and Janegrapple with the personal cost of action against the existential stakes of inaction. How far will ordinary people go to stop oil drilling and how far will the authorities go to stop them? Followed by an in-person Q&A host by Steven Methven (Novara Media) with director, Rich Felgate, Sean ",
       "screenings": [
         {
           "venue": "genesis",
@@ -13836,6 +13465,18 @@
           "display_time": "8:40 pm",
           "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14320",
           "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "genesis",
+          "date": "2026-11-12",
+          "time": "14:30",
+          "display_time": "2:30 pm",
+          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14341",
+          "formats": [
+            "Parent And Baby",
+            "Studio Screening"
+          ],
           "sold_out": false
         },
         {
@@ -13997,9 +13638,9 @@
         {
           "venue": "genesis",
           "date": "2026-11-12",
-          "time": "15:00",
-          "display_time": "3:00 pm",
-          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14335",
+          "time": "14:55",
+          "display_time": "2:55 pm",
+          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14342",
           "formats": [
             "Studio Screening"
           ],
@@ -14606,6 +14247,30 @@
       "classic": false
     },
     {
+      "title": "The Peoples Emergency Briefing + Q&A",
+      "year": null,
+      "director": null,
+      "runtime": "50mins",
+      "country": null,
+      "certificate": "12A",
+      "poster": "https://www.genesiscinema.co.uk/customFilmImages/110899_0.jpg",
+      "film_url": "https://www.genesiscinema.co.uk/event/110899",
+      "synopsis": "Last November, ten of the UKs leading experts briefed an invited audience of over 1,200 politicians and leaders from business, culture, faith, sport and the media. The briefing set out the implications of climate and nature breakdown for health, food systems, national security and the economy. The People's Emergency Briefing presents the national implications of climate and nature breakdown - along with credible, positive responses - in a single, accessible account. A new film featuring Chris Packham, leading scientists, a former general and Jennifer Saunders - all being far too frank about w",
+      "screenings": [
+        {
+          "venue": "genesis",
+          "date": "2026-11-30",
+          "time": "18:40",
+          "display_time": "6:40 pm",
+          "booking_url": "https://genesis.admit-one.co.uk/seats/?perfCode=14340",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "genesis",
+      "classic": false
+    },
+    {
       "title": "Replikka (2025) + My Foreign Land (2025) + Intro - Whose Land? Whose Lens?",
       "year": null,
       "director": null,
@@ -14817,22 +14482,121 @@
       "classic": false
     },
     {
-      "title": "I Am Furious Black: Souls of Sin & Miracle in Harlem [35mm]",
+      "title": "Primetime",
       "year": null,
       "director": null,
-      "runtime": null,
+      "runtime": "109mins",
       "country": null,
       "certificate": null,
-      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small_jpg/public/images/2026-08/Souls%20of%20Sin_Final_v2.00_56_14_04.Still013.jpg?itok=93HiOlVL",
-      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/i-am-furious-black-souls-of-sin-miracle-in-harlem-35mm",
-      "synopsis": "A key moment in Black cinema, 'race films' were produced independently and screened in segregated cinemas for Black audiences in the early 1900s.",
+      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small_jpg/public/images/2026-10/https___cdn.sanity.io_images_xq1bjtf4_production_ceca297d947f73d5b16ed296effd1bf8cde0ea7e-3840x2160.jpg?itok=azIsaK0b",
+      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/primetime",
+      "synopsis": "A triumphantly unsettling Robert Pattinson embodies Chris Hansen, host of the 2000s hit To Catch a Predator who sets out to make television history.",
       "screenings": [
         {
           "venue": "barbican",
-          "date": "2026-11-03",
+          "date": "2026-11-04",
           "time": "18:10",
           "display_time": "6:10 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3663201",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3793801",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-05",
+          "time": "15:30",
+          "display_time": "3:30 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3811001",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-05",
+          "time": "20:45",
+          "display_time": "8:45 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3794001",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-06",
+          "time": "20:30",
+          "display_time": "8:30 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3821202",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-07",
+          "time": "20:25",
+          "display_time": "8:25 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3822001",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-08",
+          "time": "17:30",
+          "display_time": "5:30 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3820808",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-08",
+          "time": "20:00",
+          "display_time": "8:00 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3819406",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-09",
+          "time": "15:50",
+          "display_time": "3:50 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3822201",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-09",
+          "time": "18:10",
+          "display_time": "6:10 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3820403",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-10",
+          "time": "20:50",
+          "display_time": "8:50 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3819604",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-11",
+          "time": "20:45",
+          "display_time": "8:45 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3821402",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-12",
+          "time": "20:45",
+          "display_time": "8:45 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3822202",
           "formats": [],
           "sold_out": false
         }
@@ -14851,24 +14615,6 @@
       "film_url": "https://www.barbican.org.uk/whats-on/2026/event/naza",
       "synopsis": "Cloaked in darkness on the rooftops of Tel Aviv, Israeli journalist Yuval Abraham conducts shattering one-on-one interviews with Israeli soldiers and intelligence personnel.",
       "screenings": [
-        {
-          "venue": "barbican",
-          "date": "2026-11-03",
-          "time": "18:15",
-          "display_time": "6:15 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3810403",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-11-03",
-          "time": "20:20",
-          "display_time": "8:20 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3812202",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "barbican",
           "date": "2026-11-04",
@@ -14991,6 +14737,30 @@
       "classic": false
     },
     {
+      "title": "I Am Furious Black: Lost Boundaries",
+      "year": null,
+      "director": null,
+      "runtime": "99mins",
+      "country": null,
+      "certificate": null,
+      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small_jpg/public/images/2026-10/MV5BMTU5NjgzOWUtZDc1NS00NWFhLTg4Y2MtZjdkMDM1N2YzYzM1XkEyXkFqcGc%40._V1_.jpg?itok=0YaWkIWB",
+      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/i-am-furious-black-lost-boundaries",
+      "synopsis": "This 1949 American drama explores the experience of Black people 'passing' as white; and the unstable existence of a life built on a secret.",
+      "screenings": [
+        {
+          "venue": "barbican",
+          "date": "2026-11-04",
+          "time": "18:20",
+          "display_time": "6:20 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3663202",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "barbican",
+      "classic": false
+    },
+    {
       "title": "Fatherland",
       "year": null,
       "director": null,
@@ -15001,15 +14771,6 @@
       "film_url": "https://www.barbican.org.uk/whats-on/2026/event/fatherland",
       "synopsis": "In post-war Germany, a father and daughter navigate political tensions and personal tragedies on an emotional road trip.",
       "screenings": [
-        {
-          "venue": "barbican",
-          "date": "2026-11-03",
-          "time": "18:20",
-          "display_time": "6:20 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3810401",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "barbican",
           "date": "2026-11-04",
@@ -15096,195 +14857,6 @@
       "classic": false
     },
     {
-      "title": "Possible Love",
-      "year": null,
-      "director": null,
-      "runtime": "164mins",
-      "country": null,
-      "certificate": null,
-      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small_jpg/public/images/2026-10/PossibleLove_Still.jpg?itok=1yzdo6rT",
-      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/possible-love",
-      "synopsis": "South Korea’s master filmmaker Lee Chang-dong ( Burning , Poetry ) returns with an intertwined drama on two married couples facing different paths and hidden desires.",
-      "screenings": [
-        {
-          "venue": "barbican",
-          "date": "2026-11-03",
-          "time": "20:05",
-          "display_time": "8:05 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3812802",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-11-05",
-          "time": "20:05",
-          "display_time": "8:05 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3809402",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "barbican",
-      "classic": false
-    },
-    {
-      "title": "Primetime",
-      "year": null,
-      "director": null,
-      "runtime": "109mins",
-      "country": null,
-      "certificate": null,
-      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small_jpg/public/images/2026-10/https___cdn.sanity.io_images_xq1bjtf4_production_ceca297d947f73d5b16ed296effd1bf8cde0ea7e-3840x2160.jpg?itok=azIsaK0b",
-      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/primetime",
-      "synopsis": "A triumphantly unsettling Robert Pattinson embodies Chris Hansen, host of the 2000s hit To Catch a Predator who sets out to make television history.",
-      "screenings": [
-        {
-          "venue": "barbican",
-          "date": "2026-11-03",
-          "time": "20:50",
-          "display_time": "8:50 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3793601",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-11-04",
-          "time": "18:10",
-          "display_time": "6:10 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3793801",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-11-05",
-          "time": "15:30",
-          "display_time": "3:30 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3811001",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-11-05",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3794001",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-11-06",
-          "time": "20:30",
-          "display_time": "8:30 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3821202",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-11-07",
-          "time": "20:25",
-          "display_time": "8:25 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3822001",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-11-08",
-          "time": "17:30",
-          "display_time": "5:30 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3820808",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-11-08",
-          "time": "20:00",
-          "display_time": "8:00 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3819406",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-11-09",
-          "time": "15:50",
-          "display_time": "3:50 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3822201",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-11-09",
-          "time": "18:10",
-          "display_time": "6:10 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3820403",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-11-10",
-          "time": "20:50",
-          "display_time": "8:50 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3819604",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-11-11",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3821402",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "barbican",
-          "date": "2026-11-12",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3822202",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "barbican",
-      "classic": false
-    },
-    {
-      "title": "I Am Furious Black: Lost Boundaries",
-      "year": null,
-      "director": null,
-      "runtime": "99mins",
-      "country": null,
-      "certificate": null,
-      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small_jpg/public/images/2026-10/MV5BMTU5NjgzOWUtZDc1NS00NWFhLTg4Y2MtZjdkMDM1N2YzYzM1XkEyXkFqcGc%40._V1_.jpg?itok=0YaWkIWB",
-      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/i-am-furious-black-lost-boundaries",
-      "synopsis": "This 1949 American drama explores the experience of Black people 'passing' as white; and the unstable existence of a life built on a secret.",
-      "screenings": [
-        {
-          "venue": "barbican",
-          "date": "2026-11-04",
-          "time": "18:20",
-          "display_time": "6:20 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3663202",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "barbican",
-      "classic": false
-    },
-    {
       "title": "The Social Reckoning",
       "year": null,
       "director": null,
@@ -15333,6 +14905,30 @@
       "classic": false
     },
     {
+      "title": "Possible Love",
+      "year": null,
+      "director": null,
+      "runtime": "164mins",
+      "country": null,
+      "certificate": null,
+      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small_jpg/public/images/2026-10/PossibleLove_Still.jpg?itok=1yzdo6rT",
+      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/possible-love",
+      "synopsis": "South Korea’s master filmmaker Lee Chang-dong ( Burning , Poetry ) returns with an intertwined drama on two married couples facing different paths and hidden desires.",
+      "screenings": [
+        {
+          "venue": "barbican",
+          "date": "2026-11-05",
+          "time": "20:05",
+          "display_time": "8:05 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3809402",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "barbican",
+      "classic": false
+    },
+    {
       "title": "La Bola Negra",
       "year": null,
       "director": null,
@@ -15357,7 +14953,7 @@
           "date": "2026-11-06",
           "time": "20:15",
           "display_time": "8:15 pm",
-          "booking_url": null,
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3790201",
           "formats": [],
           "sold_out": false
         },
@@ -15721,9 +15317,9 @@
         {
           "venue": "barbican",
           "date": "2026-11-07",
-          "time": "13:00",
-          "display_time": "1:00 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3663401",
+          "time": "14:00",
+          "display_time": "2:00 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3824601",
           "formats": [],
           "sold_out": false
         }
@@ -15745,9 +15341,9 @@
         {
           "venue": "barbican",
           "date": "2026-11-07",
-          "time": "14:30",
-          "display_time": "2:30 pm",
-          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3663801",
+          "time": "15:30",
+          "display_time": "3:30 pm",
+          "booking_url": null,
           "formats": [],
           "sold_out": false
         }
@@ -15841,8 +15437,8 @@
         {
           "venue": "barbican",
           "date": "2026-11-11",
-          "time": "18:30",
-          "display_time": "6:30 pm",
+          "time": "18:20",
+          "display_time": "6:20 pm",
           "booking_url": "https://tickets.barbican.org.uk/choose-seats/3663402",
           "formats": [],
           "sold_out": false
@@ -16197,6 +15793,84 @@
       "classic": false
     },
     {
+      "title": "You Can See Everything",
+      "year": null,
+      "director": null,
+      "runtime": "55mins",
+      "country": null,
+      "certificate": null,
+      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small_jpg/public/images/2026-10/https___cdn.sanity.io_images_xq1bjtf4_production_4a9ad5c5700fce535f649f8d6c166a50cc9163f6-2244x1262.jpg?h=8ebabf93&itok=Y9RD0uY6",
+      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/you-can-see-everything",
+      "synopsis": "34 days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew led by Nathan Fielder to document her every move.",
+      "screenings": [
+        {
+          "venue": "barbican",
+          "date": "2026-11-20",
+          "time": "20:05",
+          "display_time": "8:05 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3820404",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-21",
+          "time": "16:40",
+          "display_time": "4:40 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3822601",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-21",
+          "time": "20:05",
+          "display_time": "8:05 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3821203",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-22",
+          "time": "14:00",
+          "display_time": "2:00 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3820405",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-22",
+          "time": "16:20",
+          "display_time": "4:20 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3823201",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-22",
+          "time": "19:45",
+          "display_time": "7:45 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3823401",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "barbican",
+          "date": "2026-11-25",
+          "time": "20:05",
+          "display_time": "8:05 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3822801",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "barbican",
+      "classic": false
+    },
+    {
       "title": "Family Film Club: Reverie Cineclub Presents: Hubley Hash...",
       "year": null,
       "director": null,
@@ -16285,6 +15959,30 @@
           "time": "15:20",
           "display_time": "3:20 pm",
           "booking_url": null,
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "barbican",
+      "classic": false
+    },
+    {
+      "title": "Possible Love + ScreenTalk",
+      "year": null,
+      "director": null,
+      "runtime": "164mins",
+      "country": null,
+      "certificate": null,
+      "poster": "https://www.barbican.org.uk/sites/default/files/styles/event_listing_small_jpg/public/images/2026-10/PossibleLove_Still.jpg?itok=1yzdo6rT",
+      "film_url": "https://www.barbican.org.uk/whats-on/2026/event/possible-love-screentalk",
+      "synopsis": "South Korea’s master filmmaker Lee Chang-dong ( Burning , Poetry ) returns with an intertwined drama on two married couples facing different paths and hidden desires.",
+      "screenings": [
+        {
+          "venue": "barbican",
+          "date": "2026-11-22",
+          "time": "18:00",
+          "display_time": "6:00 pm",
+          "booking_url": "https://tickets.barbican.org.uk/choose-seats/3824201",
           "formats": [],
           "sold_out": false
         }
@@ -16579,32 +16277,6 @@
       ],
       "venue": "barbican",
       "classic": false
-    },
-    {
-      "title": "The Pornographers",
-      "year": 1966,
-      "director": "Shōhei Imamura",
-      "runtime": "123mins",
-      "country": "Japan",
-      "certificate": null,
-      "poster": "https://www.ica.art/media/13824.jpg",
-      "film_url": "https://www.ica.art/films/imamura-the-pornographers",
-      "synopsis": "With his seventh film, Imamura continues his exploration of desire but shifts his focus from the women who fall victim to its pervasive and often violent influence, to the men making it their business. Subu is a small-time pornographer, occasional pimp, and sometimes even a bootleg viagra salesman, his work revolves entirely around sex to relative success, that is until his own sexual desires begin to stray from his common-law wife to her teenage daughter. A film that embodies the inherent voyeurism of its subject in its very form, with almost every scene viewed through a screen of some descri",
-      "screenings": [
-        {
-          "venue": "ica",
-          "date": "2026-11-03",
-          "time": "18:30",
-          "display_time": "06:30 pm",
-          "booking_url": "https://www.ica.art/book/766801",
-          "formats": [
-            "Cinema 1"
-          ],
-          "sold_out": false
-        }
-      ],
-      "venue": "ica",
-      "classic": true
     },
     {
       "title": "Final Works + Q&A",
@@ -16962,17 +16634,6 @@
       "screenings": [
         {
           "venue": "ica",
-          "date": "2026-11-03",
-          "time": "20:30",
-          "display_time": "08:30 pm",
-          "booking_url": "https://www.ica.art/book/804801",
-          "formats": [
-            "Cinema 2"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "ica",
           "date": "2026-11-04",
           "time": "20:30",
           "display_time": "08:30 pm",
@@ -17065,17 +16726,6 @@
       "screenings": [
         {
           "venue": "ica",
-          "date": "2026-11-03",
-          "time": "18:30",
-          "display_time": "06:30 pm",
-          "booking_url": "https://www.ica.art/book/802801",
-          "formats": [
-            "Cinema 2"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "ica",
           "date": "2026-11-04",
           "time": "18:30",
           "display_time": "06:30 pm",
@@ -17090,17 +16740,6 @@
           "date": "2026-11-05",
           "time": "16:00",
           "display_time": "04:00 pm",
-          "booking_url": "https://www.ica.art/book/802801",
-          "formats": [
-            "Cinema 2"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "ica",
-          "date": "2026-11-06",
-          "time": "12:05",
-          "display_time": "12:05 pm",
           "booking_url": "https://www.ica.art/book/802801",
           "formats": [
             "Cinema 2"
@@ -17133,17 +16772,6 @@
       "film_url": "https://www.ica.art/films/off-circuit-the-night-is-fading-away",
       "synopsis": "Pelu is a thirty-something barely scraping by on his salary as a projectionist at a film theatre that belongs to Cordoba's city hall. After losing his job due to budget cuts, he agrees to stay on as the night watchman, and through a series of increasingly unfortunate twists, he ends up secretly living inside the cinema, surrounded by the films he watches every night. Growing more comfortable in his new home, Pelu begins to form a small community that inhabits the cinema after hours: a group of three naranjitas (informal homeless parking attendants) he lets sleep there, who eventually become hi",
       "screenings": [
-        {
-          "venue": "ica",
-          "date": "2026-11-03",
-          "time": "16:15",
-          "display_time": "04:15 pm",
-          "booking_url": "https://www.ica.art/book/790801",
-          "formats": [
-            "Cinema 2"
-          ],
-          "sold_out": false
-        },
         {
           "venue": "ica",
           "date": "2026-11-04",
@@ -17205,17 +16833,6 @@
       "screenings": [
         {
           "venue": "ica",
-          "date": "2026-11-04",
-          "time": "13:30",
-          "display_time": "01:30 pm",
-          "booking_url": "https://www.ica.art/book/792201",
-          "formats": [
-            "Cinema 1"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "ica",
           "date": "2026-11-05",
           "time": "15:00",
           "display_time": "03:00 pm",
@@ -17228,8 +16845,8 @@
         {
           "venue": "ica",
           "date": "2026-11-06",
-          "time": "13:40",
-          "display_time": "01:40 pm",
+          "time": "12:40",
+          "display_time": "12:40 pm",
           "booking_url": "https://www.ica.art/book/792201",
           "formats": [
             "Cinema 2"
@@ -17273,17 +16890,6 @@
       "film_url": "https://www.ica.art/films/fatherland",
       "synopsis": "The new offering from Oscar-winner Pawel Pawlikowski Fatherland centres on the relationship between the Nobel Prize-winning writer Thomas Mann and his daughter Erika, actress, writer and rally driver. In the summer of 1949, at the height of the Cold War, father and daughter embark on a challenging and emotional road trip in a black Buick taking them across a Germany in ruins – from US dominated Frankfurt to Soviet controlled Weimar. Returning home after sixteen years of exile in the US, Thomas Mann has to face not only a divided fatherland, but also deep fracture within his own family",
       "screenings": [
-        {
-          "venue": "ica",
-          "date": "2026-11-03",
-          "time": "14:15",
-          "display_time": "02:15 pm",
-          "booking_url": "https://www.ica.art/book/792202",
-          "formats": [
-            "Cinema 1"
-          ],
-          "sold_out": false
-        },
         {
           "venue": "ica",
           "date": "2026-11-04",
@@ -17355,32 +16961,6 @@
       "classic": false
     },
     {
-      "title": "Case 137",
-      "year": 2025,
-      "director": "Dominik Moll",
-      "runtime": "122mins",
-      "country": "France",
-      "certificate": "12A",
-      "poster": "https://www.ica.art/media/14037.jpeg",
-      "film_url": "https://www.ica.art/films/case-137",
-      "synopsis": "Set against the backdrop of mass protests in Paris, Case 137 follows Stéphanie, a meticulous internal affairs investigator working on the case of a teenager severely wounded by police fire. As she searches for the truth her inquiry collides with institutional resistance and pressure mounts as the case takes a personal turn when she discovers the victim is from her hometown",
-      "screenings": [
-        {
-          "venue": "ica",
-          "date": "2026-11-04",
-          "time": "12:05",
-          "display_time": "12:05 pm",
-          "booking_url": "https://www.ica.art/book/787201",
-          "formats": [
-            "Cinema 2"
-          ],
-          "sold_out": false
-        }
-      ],
-      "venue": "ica",
-      "classic": false
-    },
-    {
       "title": "Naza",
       "year": 2026,
       "director": "Yuval Abraham",
@@ -17391,17 +16971,6 @@
       "film_url": "https://www.ica.art/films/naza",
       "synopsis": "Directed by Yuval Abraham and Rachel Szor, two of the co-directors of the 2024 Oscar-winning documentary No Other Land , Naza reveals the systems behind Israel’s bombing of Gaza and its mass killing of Palestinian civilians. Winner of Special Jury Prize at the 2026 Venice Film Festival. The 8.45pm screening on Wednesday 4 November will be followed by a Q&A with James Wilson (producer) and Harry Davies (Investigations correspondent, The Guardian)",
       "screenings": [
-        {
-          "venue": "ica",
-          "date": "2026-11-03",
-          "time": "16:15",
-          "display_time": "04:15 pm",
-          "booking_url": "https://www.ica.art/book/792801",
-          "formats": [
-            "Cinema 1"
-          ],
-          "sold_out": false
-        },
         {
           "venue": "ica",
           "date": "2026-11-04",
@@ -17732,198 +17301,110 @@
       "classic": false
     },
     {
-      "title": "NAZA",
-      "year": 2026,
-      "director": "Yuval Abraham, Rachel Szor",
-      "runtime": "77mins",
-      "country": "Israel",
-      "certificate": "15",
-      "poster": "https://images.savoysystems.co.uk/PXL/778114.jpg",
-      "film_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=778140",
-      "synopsis": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
+      "title": "My Undesirable Friends: Part I — Last Air in Moscow",
+      "year": 2024,
+      "director": null,
+      "runtime": "324mins",
+      "country": "USA",
+      "certificate": null,
+      "poster": "https://www.ica.art/media/14369.jpeg",
+      "film_url": "https://www.ica.art/films/my-undesirable-friends-part-i-last-air-in-moscow",
+      "synopsis": "American filmmaker Julia Loktev, born in the Soviet Union, returned to Moscow in 2021 to make a documentary on the persistence of independent media journalism in Putin’s Russia—just months, as it turned out, before the country’s invasion of Ukraine. Structured in five chapters, Loktev’s film is an extraordinary vérité document of a moment of immense change and anxiety. With her friend Anna Nemzer, a talk show host at TV Rain, Russia’s last remaining independent news channel, Loktev brings us into a community of sharp, warm and funny young women speaking truth to power as they face increasing t",
       "screenings": [
         {
-          "venue": "phoenix",
-          "date": "2026-11-03",
-          "time": "15:00",
-          "display_time": "3:00 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_802107.TcsSection_720",
+          "venue": "ica",
+          "date": "2027-01-01",
+          "time": "14:00",
+          "display_time": "02:00 pm",
+          "booking_url": "https://www.ica.art/book/810601",
           "formats": [
-            "SUB"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "phoenix",
-          "date": "2026-11-04",
-          "time": "17:45",
-          "display_time": "5:45 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_802136.TcsSection_720",
-          "formats": [
-            "SUB"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "phoenix",
-          "date": "2026-11-06",
-          "time": "20:15",
-          "display_time": "8:15 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818774.TcsSection_720",
-          "formats": [
-            "SUB"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "phoenix",
-          "date": "2026-11-09",
-          "time": "17:30",
-          "display_time": "5:30 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818845.TcsSection_720",
-          "formats": [
-            "SUB"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "phoenix",
-          "date": "2026-11-10",
-          "time": "15:15",
-          "display_time": "3:15 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818856.TcsSection_543",
-          "formats": [
-            "SUB"
+            "Cinema 2"
           ],
           "sold_out": false
         }
       ],
-      "venue": "phoenix",
+      "venue": "ica",
       "classic": false
     },
     {
-      "title": "Fatherland",
-      "year": 2026,
-      "director": "Paweł Pawlikowski",
-      "runtime": "82mins",
-      "country": "Poland/Germany",
-      "certificate": "12A",
-      "poster": "https://images.savoysystems.co.uk/PXL/771259.jpg",
-      "film_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=771260",
-      "synopsis": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
+      "title": "My Undesirable Friends: Part II – Exile",
+      "year": null,
+      "director": null,
+      "runtime": null,
+      "country": null,
+      "certificate": null,
+      "poster": "https://www.ica.art/media/14370.jpeg",
+      "film_url": "https://www.ica.art/films/my-undesirable-friends-part-ii-exile",
+      "synopsis": null,
       "screenings": [
         {
-          "venue": "phoenix",
-          "date": "2026-11-03",
-          "time": "15:15",
-          "display_time": "3:15 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_802093.TcsSection_543",
-          "formats": [
-            "SUB"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "phoenix",
-          "date": "2026-11-03",
+          "venue": "ica",
+          "date": "2027-01-08",
           "time": "17:00",
-          "display_time": "5:00 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_802097.TcsSection_720",
+          "display_time": "05:00 pm",
+          "booking_url": "https://www.ica.art/book/810602",
           "formats": [
-            "SUB"
+            "Cinema 2"
           ],
           "sold_out": false
         },
         {
-          "venue": "phoenix",
-          "date": "2026-11-04",
-          "time": "20:00",
-          "display_time": "8:00 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_802109.TcsSection_543",
+          "venue": "ica",
+          "date": "2027-01-09",
+          "time": "14:00",
+          "display_time": "02:00 pm",
+          "booking_url": "https://www.ica.art/book/810602",
           "formats": [
-            "SUB"
+            "Cinema 2"
           ],
           "sold_out": false
         },
         {
-          "venue": "phoenix",
-          "date": "2026-11-05",
-          "time": "15:00",
-          "display_time": "3:00 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_802146.TcsSection_720",
+          "venue": "ica",
+          "date": "2027-01-10",
+          "time": "14:00",
+          "display_time": "02:00 pm",
+          "booking_url": "https://www.ica.art/book/810602",
           "formats": [
-            "SUB"
+            "Cinema 2"
           ],
           "sold_out": false
         },
         {
-          "venue": "phoenix",
-          "date": "2026-11-05",
-          "time": "16:45",
-          "display_time": "4:45 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_802138.TcsSection_543",
+          "venue": "ica",
+          "date": "2027-01-12",
+          "time": "12:15",
+          "display_time": "12:15 pm",
+          "booking_url": "https://www.ica.art/book/810602",
           "formats": [
-            "SUB"
+            "Cinema 2"
           ],
           "sold_out": false
         },
         {
-          "venue": "phoenix",
-          "date": "2026-11-07",
-          "time": "17:00",
-          "display_time": "5:00 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818798.TcsSection_720",
+          "venue": "ica",
+          "date": "2027-01-13",
+          "time": "12:15",
+          "display_time": "12:15 pm",
+          "booking_url": "https://www.ica.art/book/810602",
           "formats": [
-            "SUB"
+            "Cinema 2"
           ],
           "sold_out": false
         },
         {
-          "venue": "phoenix",
-          "date": "2026-11-08",
-          "time": "12:30",
-          "display_time": "12:30 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818815.TcsSection_720",
+          "venue": "ica",
+          "date": "2027-01-14",
+          "time": "12:15",
+          "display_time": "12:15 pm",
+          "booking_url": "https://www.ica.art/book/810602",
           "formats": [
-            "SUB"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "phoenix",
-          "date": "2026-11-08",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818802.TcsSection_543",
-          "formats": [
-            "SUB"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "phoenix",
-          "date": "2026-11-10",
-          "time": "17:45",
-          "display_time": "5:45 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818867.TcsSection_720",
-          "formats": [
-            "SUB"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "phoenix",
-          "date": "2026-11-11",
-          "time": "17:45",
-          "display_time": "5:45 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818885.TcsSection_720",
-          "formats": [
-            "SUB"
+            "Cinema 2"
           ],
           "sold_out": false
         }
       ],
-      "venue": "phoenix",
+      "venue": "ica",
       "classic": false
     },
     {
@@ -17937,26 +17418,6 @@
       "film_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=765116",
       "synopsis": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, ...",
       "screenings": [
-        {
-          "venue": "phoenix",
-          "date": "2026-11-03",
-          "time": "17:15",
-          "display_time": "5:15 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_802088.TcsSection_543",
-          "formats": [
-            "CC"
-          ],
-          "sold_out": false
-        },
-        {
-          "venue": "phoenix",
-          "date": "2026-11-03",
-          "time": "19:15",
-          "display_time": "7:15 pm",
-          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_802095.TcsSection_720",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "phoenix",
           "date": "2026-11-04",
@@ -18055,7 +17516,68 @@
           "time": "17:15",
           "display_time": "5:15 pm",
           "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818892.TcsSection_720",
-          "formats": [],
+          "formats": [
+            "CC"
+          ],
+          "sold_out": false
+        }
+      ],
+      "venue": "phoenix",
+      "classic": false
+    },
+    {
+      "title": "NAZA",
+      "year": 2026,
+      "director": "Yuval Abraham, Rachel Szor",
+      "runtime": "77mins",
+      "country": "Israel",
+      "certificate": "15",
+      "poster": "https://images.savoysystems.co.uk/PXL/778114.jpg",
+      "film_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=778140",
+      "synopsis": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
+      "screenings": [
+        {
+          "venue": "phoenix",
+          "date": "2026-11-04",
+          "time": "17:45",
+          "display_time": "5:45 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_802136.TcsSection_720",
+          "formats": [
+            "SUB"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "phoenix",
+          "date": "2026-11-06",
+          "time": "20:15",
+          "display_time": "8:15 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818774.TcsSection_720",
+          "formats": [
+            "SUB"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "phoenix",
+          "date": "2026-11-09",
+          "time": "17:30",
+          "display_time": "5:30 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818845.TcsSection_720",
+          "formats": [
+            "SUB"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "phoenix",
+          "date": "2026-11-10",
+          "time": "15:15",
+          "display_time": "3:15 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818856.TcsSection_543",
+          "formats": [
+            "SUB"
+          ],
           "sold_out": false
         }
       ],
@@ -18169,7 +17691,9 @@
           "time": "17:15",
           "display_time": "5:15 pm",
           "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818853.TcsSection_543",
-          "formats": [],
+          "formats": [
+            "CC"
+          ],
           "sold_out": false
         },
         {
@@ -18197,6 +17721,109 @@
           "display_time": "8:00 pm",
           "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818890.TcsSection_720",
           "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "phoenix",
+      "classic": false
+    },
+    {
+      "title": "Fatherland",
+      "year": 2026,
+      "director": "Paweł Pawlikowski",
+      "runtime": "82mins",
+      "country": "Poland/Germany",
+      "certificate": "12A",
+      "poster": "https://images.savoysystems.co.uk/PXL/771259.jpg",
+      "film_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=771260",
+      "synopsis": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
+      "screenings": [
+        {
+          "venue": "phoenix",
+          "date": "2026-11-04",
+          "time": "20:00",
+          "display_time": "8:00 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_802109.TcsSection_543",
+          "formats": [
+            "SUB"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "phoenix",
+          "date": "2026-11-05",
+          "time": "15:00",
+          "display_time": "3:00 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_802146.TcsSection_720",
+          "formats": [
+            "SUB"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "phoenix",
+          "date": "2026-11-05",
+          "time": "16:45",
+          "display_time": "4:45 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_802138.TcsSection_543",
+          "formats": [
+            "SUB"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "phoenix",
+          "date": "2026-11-07",
+          "time": "17:00",
+          "display_time": "5:00 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818798.TcsSection_720",
+          "formats": [
+            "SUB"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "phoenix",
+          "date": "2026-11-08",
+          "time": "12:30",
+          "display_time": "12:30 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818815.TcsSection_720",
+          "formats": [
+            "SUB"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "phoenix",
+          "date": "2026-11-08",
+          "time": "20:45",
+          "display_time": "8:45 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818802.TcsSection_543",
+          "formats": [
+            "SUB"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "phoenix",
+          "date": "2026-11-10",
+          "time": "17:45",
+          "display_time": "5:45 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818867.TcsSection_720",
+          "formats": [
+            "SUB"
+          ],
+          "sold_out": false
+        },
+        {
+          "venue": "phoenix",
+          "date": "2026-11-11",
+          "time": "17:45",
+          "display_time": "5:45 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_818885.TcsSection_720",
+          "formats": [
+            "SUB"
+          ],
           "sold_out": false
         }
       ],
@@ -18820,6 +18447,54 @@
       "classic": false
     },
     {
+      "title": "Phoenix Classics - Lawrence of Arabia",
+      "year": 1962,
+      "director": "David Lean",
+      "runtime": "228mins",
+      "country": "UK",
+      "certificate": "PG",
+      "poster": "https://images.savoysystems.co.uk/PXL/792486.jpg",
+      "film_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=792494",
+      "synopsis": "Due to his knowledge of the native Bedouin tribes, British Lieutenant T.E. Lawrence (Peter O'Toole) is sent to Arabia to find Prince Faisal (Alec Guinness) and serve as a liaison between the Arabs and the British in their fight against the Turks. With the aid of native Sharif Ali (Omar Sharif), Lawr...",
+      "screenings": [
+        {
+          "venue": "phoenix",
+          "date": "2026-12-06",
+          "time": "12:30",
+          "display_time": "12:30 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_822588.TcsSection_543",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "phoenix",
+      "classic": true
+    },
+    {
+      "title": "Reel Rock 20",
+      "year": 2026,
+      "director": null,
+      "runtime": "96mins",
+      "country": "UK",
+      "certificate": "PG",
+      "poster": "https://images.savoysystems.co.uk/PXL/821862.jpg",
+      "film_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=821902",
+      "synopsis": "Reel Rock 20 World Tour showcases the world's best climbing stories: Olympic champion Janja Garnbret sets her sights on the legendary climb Bibliographie, Michaela Kiersch goes on a global sending spree, Ben Mayforth redefines adaptive climbing in his intense pursuit of 5.13, and Colin Haley attempt...",
+      "screenings": [
+        {
+          "venue": "phoenix",
+          "date": "2026-12-11",
+          "time": "20:00",
+          "display_time": "8:00 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_821916.TcsSection_543",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "phoenix",
+      "classic": false
+    },
+    {
       "title": "Gazza's Christmas Cracker: An Evening with Paul Gascoigne",
       "year": null,
       "director": null,
@@ -18836,6 +18511,54 @@
           "time": "18:00",
           "display_time": "6:00 pm",
           "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_772891.TcsSection_772679",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "phoenix",
+      "classic": false
+    },
+    {
+      "title": "Phoenix Classics - Doctor Zhivago",
+      "year": 1965,
+      "director": "David Lean",
+      "runtime": "200mins",
+      "country": "UK",
+      "certificate": "PG",
+      "poster": "https://images.savoysystems.co.uk/PXL/792496.jpg",
+      "film_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=792501",
+      "synopsis": "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution. Yuri Zhivago (Omar Sharif) is a young doctor who has been raised by his aunt and uncle following his...",
+      "screenings": [
+        {
+          "venue": "phoenix",
+          "date": "2026-12-13",
+          "time": "12:30",
+          "display_time": "12:30 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_822590.TcsSection_543",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "phoenix",
+      "classic": true
+    },
+    {
+      "title": "National Theatre Live: Hay Fever",
+      "year": 2027,
+      "director": "Emily Burns",
+      "runtime": "160mins",
+      "country": "UK",
+      "certificate": "15",
+      "poster": "https://images.savoysystems.co.uk/PXL/823024.jpg",
+      "film_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=823025",
+      "synopsis": "It's loathsome being looked after. Last year, Judith retired from her life-on-stage. Already, she misses the applause. Idling away at their country home, the rest of the family—reclusive novelist husband David and failure-to-launch children Sorrel and Simon—are too self-involved to be a good audienc...",
+      "screenings": [
+        {
+          "venue": "phoenix",
+          "date": "2027-01-14",
+          "time": "19:00",
+          "display_time": "7:00 pm",
+          "booking_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_823026.TcsSection_543",
           "formats": [],
           "sold_out": false
         }
@@ -19024,24 +18747,6 @@
       "screenings": [
         {
           "venue": "rio",
-          "date": "2026-11-03",
-          "time": "18:15",
-          "display_time": "6:15 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3033296.TcsSection_1299",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "rio",
-          "date": "2026-11-03",
-          "time": "20:20",
-          "display_time": "8:20 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3033294.TcsSection_936",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "rio",
           "date": "2026-11-04",
           "time": "18:15",
           "display_time": "6:15 pm",
@@ -19093,15 +18798,6 @@
       "screenings": [
         {
           "venue": "rio",
-          "date": "2026-11-03",
-          "time": "18:30",
-          "display_time": "6:30 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3033292.TcsSection_936",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "rio",
           "date": "2026-11-04",
           "time": "18:30",
           "display_time": "6:30 pm",
@@ -19151,15 +18847,6 @@
       "film_url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=2951347",
       "synopsis": "At the height of the Cold War, the writer Thomas Mann and his daughter—actress, writer, and rally driver—Erika embark on a road trip in a black Buick cruiser across a divided Germany in ruins, traveling from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.",
       "screenings": [
-        {
-          "venue": "rio",
-          "date": "2026-11-03",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3033298.TcsSection_1299",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "rio",
           "date": "2026-11-04",
@@ -19339,7 +19026,7 @@
           "date": "2026-11-12",
           "time": "18:10",
           "display_time": "6:10 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3061377.TcsSection_1299",
+          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3061377.TcsSection_936",
           "formats": [],
           "sold_out": false
         },
@@ -19603,7 +19290,7 @@
           "date": "2026-11-12",
           "time": "18:40",
           "display_time": "6:40 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2902985.TcsSection_936",
+          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2902985.TcsSection_1299",
           "formats": [],
           "sold_out": false
         }
@@ -19849,66 +19536,6 @@
       "classic": false
     },
     {
-      "title": "AMERICAN DOCTOR",
-      "year": 2026,
-      "director": "Poh Si Teng",
-      "runtime": "90mins",
-      "country": "US, Palestine, Malaysia, Qatar",
-      "certificate": "15",
-      "poster": "https://images.savoysystems.co.uk/RIL/3060632.jpg",
-      "film_url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=3060639",
-      "synopsis": "Three American physicians share an oath to save lives, and a determination that their responsibility to Gaza will not end when they leave. Poh Si Teng’s devastating documentary follows Thaer Ahmad, Mark Perlmutter and Feroze Sidhwa from volunteering in besieged hospitals to confronting political ind...",
-      "screenings": [
-        {
-          "venue": "rio",
-          "date": "2026-11-20",
-          "time": "18:20",
-          "display_time": "6:20 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3061774.TcsSection_1299",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "rio",
-          "date": "2026-11-21",
-          "time": "17:30",
-          "display_time": "5:30 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3061776.TcsSection_1299",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "rio",
-          "date": "2026-11-23",
-          "time": "18:20",
-          "display_time": "6:20 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3061781.TcsSection_1299",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "rio",
-          "date": "2026-11-24",
-          "time": "18:15",
-          "display_time": "6:15 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3061783.TcsSection_1299",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "rio",
-          "date": "2026-11-25",
-          "time": "18:15",
-          "display_time": "6:15 pm",
-          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3061785.TcsSection_1299",
-          "formats": [],
-          "sold_out": false
-        }
-      ],
-      "venue": "rio",
-      "classic": false
-    },
-    {
       "title": "YOU CAN SEE EVERYTHING",
       "year": 2026,
       "director": "Nathan Fielder & Lance Oppenheim",
@@ -20006,6 +19633,66 @@
           "time": "20:45",
           "display_time": "8:45 pm",
           "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3014470.TcsSection_936",
+          "formats": [],
+          "sold_out": false
+        }
+      ],
+      "venue": "rio",
+      "classic": false
+    },
+    {
+      "title": "AMERICAN DOCTOR",
+      "year": 2026,
+      "director": "Poh Si Teng",
+      "runtime": "90mins",
+      "country": "US, Palestine, Malaysia, Qatar",
+      "certificate": "15",
+      "poster": "https://images.savoysystems.co.uk/RIL/3060632.jpg",
+      "film_url": "https://riocinema.org.uk/Rio.dll/WhatsOn?f=3060639",
+      "synopsis": "Three American physicians share an oath to save lives, and a determination that their responsibility to Gaza will not end when they leave. Poh Si Teng’s devastating documentary follows Thaer Ahmad, Mark Perlmutter and Feroze Sidhwa from volunteering in besieged hospitals to confronting political ind...",
+      "screenings": [
+        {
+          "venue": "rio",
+          "date": "2026-11-20",
+          "time": "20:45",
+          "display_time": "8:45 pm",
+          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3061774.TcsSection_1299",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "rio",
+          "date": "2026-11-21",
+          "time": "17:30",
+          "display_time": "5:30 pm",
+          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3061776.TcsSection_1299",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "rio",
+          "date": "2026-11-23",
+          "time": "18:20",
+          "display_time": "6:20 pm",
+          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3061781.TcsSection_1299",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "rio",
+          "date": "2026-11-24",
+          "time": "18:15",
+          "display_time": "6:15 pm",
+          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3061783.TcsSection_1299",
+          "formats": [],
+          "sold_out": false
+        },
+        {
+          "venue": "rio",
+          "date": "2026-11-25",
+          "time": "18:15",
+          "display_time": "6:15 pm",
+          "booking_url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3061785.TcsSection_1299",
           "formats": [],
           "sold_out": false
         }
@@ -20810,15 +20497,6 @@
       "film_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=5A25DFE3-31F2-4798-B714-252E8EC65864",
       "synopsis": null,
       "screenings": [
-        {
-          "venue": "bfi",
-          "date": "2026-11-03",
-          "time": "20:40",
-          "display_time": "8:40 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=5A25DFE3-31F2-4798-B714-252E8EC65864",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "bfi",
           "date": "2026-11-27",
@@ -21799,15 +21477,6 @@
       "screenings": [
         {
           "venue": "bfi",
-          "date": "2026-11-03",
-          "time": "21:10",
-          "display_time": "9:10 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=A5874865-E01C-4243-BE87-9A5FECF104C8",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "bfi",
           "date": "2026-11-04",
           "time": "13:20",
           "display_time": "1:20 pm",
@@ -22267,30 +21936,6 @@
       "classic": true
     },
     {
-      "title": "Possible Love",
-      "year": 2026,
-      "director": "Lee Chang-dong",
-      "runtime": "164mins",
-      "country": null,
-      "certificate": null,
-      "poster": "https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
-      "film_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=DD75C253-D2F0-4C42-B575-E7473773344E",
-      "synopsis": null,
-      "screenings": [
-        {
-          "venue": "bfi",
-          "date": "2026-11-03",
-          "time": "17:50",
-          "display_time": "5:50 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=DD75C253-D2F0-4C42-B575-E7473773344E",
-          "formats": [],
-          "sold_out": true
-        }
-      ],
-      "venue": "bfi",
-      "classic": false
-    },
-    {
       "title": "When the Night Falls",
       "year": 2027,
       "director": "Daniel Auteuil",
@@ -22339,7 +21984,7 @@
       "classic": false
     },
     {
-      "title": "TCB - The Toni Cade Bambara School of Organizing",
+      "title": "TCB: The Toni Cade Bambara School of Organizing",
       "year": 2025,
       "director": null,
       "runtime": "105mins",
@@ -24157,24 +23802,6 @@
       "screenings": [
         {
           "venue": "bfi",
-          "date": "2026-11-03",
-          "time": "18:10",
-          "display_time": "6:10 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=F47D6B06-93F7-4022-82B6-330619510A56",
-          "formats": [],
-          "sold_out": true
-        },
-        {
-          "venue": "bfi",
-          "date": "2026-11-03",
-          "time": "20:45",
-          "display_time": "8:45 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=F47D6B06-93F7-4022-82B6-330619510A56",
-          "formats": [],
-          "sold_out": true
-        },
-        {
-          "venue": "bfi",
           "date": "2026-11-04",
           "time": "14:30",
           "display_time": "2:30 pm",
@@ -25630,15 +25257,6 @@
       "screenings": [
         {
           "venue": "bfi",
-          "date": "2026-11-03",
-          "time": "18:20",
-          "display_time": "6:20 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=DD7F4DCB-99FD-450A-8F75-C8A64E4E20DB",
-          "formats": [],
-          "sold_out": false
-        },
-        {
-          "venue": "bfi",
           "date": "2026-11-14",
           "time": "20:45",
           "display_time": "8:45 pm",
@@ -26036,18 +25654,9 @@
       "country": null,
       "certificate": "15",
       "poster": "https://image.tmdb.org/t/p/w500/xvWwPqjo2C8HszVuaPnXVhBYTJm.jpg",
-      "film_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=9F8C61D0-F59B-4A70-A8E2-DE35BD5E5A5A",
+      "film_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C51EF511-28D1-4E42-BF0C-FF1E542BAA9E",
       "synopsis": null,
       "screenings": [
-        {
-          "venue": "bfi",
-          "date": "2026-11-03",
-          "time": "21:15",
-          "display_time": "9:15 pm",
-          "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=9F8C61D0-F59B-4A70-A8E2-DE35BD5E5A5A",
-          "formats": [],
-          "sold_out": false
-        },
         {
           "venue": "bfi",
           "date": "2026-11-16",
@@ -26394,7 +26003,7 @@
           "display_time": "2:30 pm",
           "booking_url": "https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=22DBA8A8-6138-47B5-BCED-A13DC34E735A",
           "formats": [],
-          "sold_out": false
+          "sold_out": true
         },
         {
           "venue": "bfi",
